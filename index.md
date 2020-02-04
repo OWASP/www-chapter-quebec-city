@@ -17,7 +17,9 @@ __NOTOC__
 
 ## **Prochaines activités OWASP Québec**
 
-  - Nous sommes à planifier les dates pour 2020
+-  17 mars 2020: sujet à confirmer
+-  28 avril 2020: sujet à confirmer
+-  4 juin 2020: sujet à confirmer
 
 ## **OWASP Ville de Québec est toujours à la recherche de conférenciers\!**
 
@@ -26,6 +28,7 @@ connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP, SVP communiquez avec nous\!
 
 [Patrick Leclerc](mailto:patrick.leclerc@owasp.org)
+
 [Louis Nadeau](mailto:louis.nadeau@owasp.org)
 
 **Voici à titre indicatif quelques idées de présentations en lien avec
