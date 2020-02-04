@@ -69,7 +69,7 @@ faites-nous en part\! :**
   - Toute intervention orale (présentation, formation) lors d'un meeting
     OWASP est soumise à l'acceptation préalable du règlement des
     conférenciers
-  - La vente de produits est strictement interdite
+  - La vente de produits est strictement interdite.
 
 
 # Historique
