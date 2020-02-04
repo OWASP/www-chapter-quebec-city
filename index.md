@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Quebec City
-tags: example-tag
+<!-- tags: example-tag-->
 level: 0
 
 region: Canada
@@ -21,15 +21,15 @@ __NOTOC__
 -  28 avril 2020: sujet à confirmer
 -  4 juin 2020: sujet à confirmer
 
-## **OWASP Ville de Québec est toujours à la recherche de conférenciers\!**
+
+## **OWASP Ville de Québec est à la recherche de conférenciers\!**
 
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP, SVP communiquez avec nous\!
 
-[Patrick Leclerc](mailto:patrick.leclerc@owasp.org)
-
-[Louis Nadeau](mailto:louis.nadeau@owasp.org)
+- [Patrick Leclerc](mailto:patrick.leclerc@owasp.org)
+- [Louis Nadeau](mailto:louis.nadeau@owasp.org)
 
 **Voici à titre indicatif quelques idées de présentations en lien avec
 la sécurité applicative, vos sujets nous intéressent également, alors
@@ -71,7 +71,29 @@ faites-nous en part\! :**
     conférenciers
   - La vente de produits est strictement interdite
 
+
 # Historique
+
+## 21 janvier 2020: Escalade de privilèges dans le Cloud: D'une simple vulnérabilité SSRF à "Administrateur Cloud Global"
+[100px](image:aximeLeblanc.png "wikilink")
+**Maxime Leblanc**
+Information Security Specialist (SecOps)
+Poka
+
+#### Description
+Au cours des derniers mois, j'ai exploré différentes techniques d'exploitation de vulnérabilités de type SSRF (Server-Side Request Forgery), qui peuvent mener à l'accès non autorisé à des ressources réseau auxquelles seul le serveur Web devrait avoir accès. Dans certaines circonstances, les vulnérabilités SSRF peuvent mener à la fuite de clés d'API ou d'accès à la base de données. Dans cette présentation, je démontrerai que dans le contexte d'une application hébergée sur le Cloud, la puissance d'une attaque SSRF a le potentiel d'être décuplée: Un attaquant réussissant ce type d'attaque pourrait prendre le contrôle complet du compte Cloud, les dommages potentiels étant uniquement limités par les capacités du compte administrateur. On peut ainsi imaginer un attaquant ayant accès à l'ensemble des unités de stockage S3 et y hébergeant des logiciels malveillants, ou encore exploitant de puissantes machines pour miner des crypto-monnaies au frais de la victime. La présentation sera accompagnée d'un projet open-source permettant de tester différents scénarios d'exploitation SSRF sur le Cloud: Le Damn Vulnerable Cloud Application Project.
+
+#### Plan
+- Intro
+- Qu'est-ce qu'une vulnérabilité SSRF (Web)
+- Organisation du système de permissions dans le Cloud
+- Utilisation d'une vulnérabilité SSRF pour l'obtention de clés d'authentification au cloud
+- Escalade de privilèges vers un compte administrateur
+- Démonstration
+- Défense et contre-mesures
+- Conclusion - "[The Damn Vulnerable Cloud Application project](https://github.com/m6a-UdS/dvca)"
+
+
 
 ## 19 novembre 2019: "Securing open sources libraries in open source code package" \*\*\*chez Coveo\*\*\*
 
