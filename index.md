@@ -74,8 +74,3 @@ faites-nous en part\! :**
 [<img src="assets/images/Bentley_Logo_RGB_200px.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Bentley" />](https://www.bentley.com/)
 [<img src="assets/images/IAGF_150x80.jpg" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="iA" />](https://ia.ca/)
 
-
-![Bentley](assets/images/Bentley_Logo_RGB_200px.png)(https://www.bentley.com/)
-![Image:Spacer-horiz.gif‎](Spacer-horiz.gif‎ "Image:Spacer-horiz.gif‎")
-![iA Groupe Financier](assets/images/IAGF_150x80.jpg)(https://ia.ca/)
-
