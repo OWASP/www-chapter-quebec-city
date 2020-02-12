@@ -68,44 +68,6 @@ faites-nous en part\! :**
   - La vente de produits est strictement interdite
 
 
-# Supports & Commandites
-
-## Supportez-nous\!
-
-Pour [supporter OWASP Quebec
-City](https://www.owasp.org/index.php/Membership):
-
-  - En devenant membre ($50 US / 1 an), sélectionnez notre chapitre pour
-    lui verser 40% du montant:
-    <https://www.owasp.org/index.php/Membership>
-  - En faisant un don via Paypal en cliquant sur le bouton " Donate "
-    juste au bas de cette page
-
-Pour [devenir membre
-OWASP](https://www.owasp.org/index.php/Membership_Map)
-
-## Devenez commanditaire de notre communauté\!
-
-Quatre formules de sponsoring sont actuellement proposées aux
-organisations désireuses de soutenir la mission de l'OWASP:
-
-  - Chapter Supporter: soutien financier annuel du chapitre OWASP Ville
-    de Québec
-  - Single Meeting Supporter: soutien financier ponctuel, pour un
-    meeting spécifique du chapitre OWASP Ville de Québec
-  - Facility Sponsor: publicité des évènements OWASP Quebec City et/ou
-    mise à la disposition de salles équipées pour la tenue des meetings
-    OWASP Ville de Québec
-  - Organization Supporter: soutien financier annuel de la fondation
-    OWASP + 40% de la cotisation reversés à la section affiliée (OWASP
-    Quebec City)
-
-Pour toute information relative au sponsoring affilié à la section,
-merci de contacter [Patrick Leclerc](mailto:patrick.leclerc@owasp.org)
-ou consulter la page
-[memberships](https://www.owasp.org/index.php/Membership) dédiée à cet
-effet. <headertabs></headertabs>
-
 ## Chapter Supporters / Commanditaires du chapitre
 
 ### Gold / Or
@@ -113,29 +75,3 @@ effet. <headertabs></headertabs>
 ![Bentley](Bentley_Logo_RGB_200px.png "Bentley")
 ![Image:Spacer-horiz.gif‎](Spacer-horiz.gif‎ "Image:Spacer-horiz.gif‎")
 ![iA Groupe Financier](IAGF_150x80.jpg "iA Groupe Financier")
-
-
-## Commandites et options d'adhésion
-
-![Btn_donate_SM.gif](Btn_donate_SM.gif "Btn_donate_SM.gif") Donnez,
-commanditez notre chapitre.
-
-Ou considérez devenir membre OWASP [individuel, corporatif, ou
-académique](Membership "wikilink"). Prêt à devenir membre?
-![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")
-
-## Recevez les invitations à nos événements OWASP en nous suivant sur nos médias sociaux\!
-
-![Facebook: /OwaspQuebec](FacebookLogo.png "Facebook: /OwaspQuebec")
-![LinkedIn: /Owasp-Quebec-4338809](Linkdin.png
-"LinkedIn: /Owasp-Quebec-4338809") ![liste de distribution OWASP Ville
-de Québec](Mailing-list.jpg
-"liste de distribution OWASP Ville de Québec") ![Twitter:
-@owaspquebec](TwitterLogo.png "Twitter: @owaspquebec")
-Pour nous contacter : [OWASP Ville de
-Québec](mailto:patrick.leclerc@owasp.org)
-
------
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
