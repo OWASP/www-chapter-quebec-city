@@ -13,8 +13,6 @@ region: Canada
 ## Bienvenue sur la page du chapitre de Québec ##
 
 
-# Événements à venir
-
 ## **Prochaines activités OWASP Québec**
 
 -  17 mars 2020: sujet à confirmer
