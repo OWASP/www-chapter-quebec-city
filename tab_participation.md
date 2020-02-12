@@ -4,7 +4,7 @@ displaytext: Participation
 layout:  null
 tab: true
 order: 3
-tags: Canada
+tags: Participation
 ---
 
 ## Communauté ##
