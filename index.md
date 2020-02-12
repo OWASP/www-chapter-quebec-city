@@ -10,8 +10,6 @@ region: Canada
 
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
 
-** Bienvenue sur la page du chapitre de Québec **
-
 
 ## **Prochaines activités OWASP Québec**
 
