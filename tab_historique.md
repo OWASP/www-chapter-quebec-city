@@ -4,7 +4,7 @@ displaytext: Évènements passés
 layout:  null
 tab: true
 order: 2
-tags: canada
+tags: Historique
 ---
 
 ## Évènements passés ##
