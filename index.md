@@ -72,6 +72,7 @@ faites-nous en part\! :**
 
 ### Gold / Or
 
-![Bentley](Bentley_Logo_RGB_200px.png "Bentley")
+![Bentley](assets/images/Bentley_Logo_RGB_200px.png)
 ![Image:Spacer-horiz.gif‎](Spacer-horiz.gif‎ "Image:Spacer-horiz.gif‎")
-![iA Groupe Financier](IAGF_150x80.jpg "iA Groupe Financier")
+![iA Groupe Financier](assets/images/IAGF_150x80.jpg)
+
