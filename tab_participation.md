@@ -12,7 +12,7 @@ tags: Canada
 Les rencontres OWASP sont ouvertes à tous et gratuites. Nous
 encourageons l'échange informel sur tous sujets relatifs à la sécurité
 applicative. Toute personne intéressée par la sécurité applicative est
-la bienvenue aux rencontres.
+bienvenue aux rencontres.
 
 Les sujets principalement abordés sont:
 
@@ -28,7 +28,8 @@ Les sujets principalement abordés sont:
 Si vous souhaitez présenter un sujet lors d'une prochaine rencontre
 OWASP ou avez une question relative aux rencontres de la section OWASP
 Ville de Québec, n'hésitez pas à envoyer un email à [Patrick
-Leclerc](mailto:patrick.leclerc@owasp.org). Toute intervention orale
+Leclerc](mailto:patrick.leclerc@owasp.org) ou [Louis
+Nadeau](mailto:louis.nadeau@owasp.org). Toute intervention orale
 (présentation, formation) lors d'un meeting OWASP est soumise à
 l'acceptation préalable du [règlement des
-conférenciers](https://www.owasp.org/index.php/Speaker_Agreement).
+conférenciers](https://owasp.org/www-policy/legal/speaker-agreement).
