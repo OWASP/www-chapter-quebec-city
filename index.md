@@ -2,12 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Quebec City
-tags: example-tag
+<!-- tags: example-tag-->
 level: 0
 region: Canada
-<!-- tags: example-tag-->
-
-![Quebec_City_Chapter Logo](assets/images/ville_quebec 981x303.png)
+---
 
 Bienvenue sur la page du chapitre OWASP Ville de Québec!
 
