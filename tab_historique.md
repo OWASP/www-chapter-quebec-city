@@ -3,8 +3,8 @@ title: Évènements passés
 displaytext: Évènements passés
 layout:  null
 tab: true
-order: 2
-tags: Historique
+order: 1
+tags: historique
 ---
 
 ## Évènements passés ##
