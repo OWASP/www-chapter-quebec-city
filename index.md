@@ -2,15 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Quebec City
-<!-- tags: example-tag-->
+tags: historique
 level: 0
 region: Canada
 ---
-
+<!-- tags: example-tag-->
 
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
 
-Bienvenue sur la page du chapitre de Québec.
+## Bienvenue sur la page du chapitre de Québec ##
 
 
 # Événements à venir
