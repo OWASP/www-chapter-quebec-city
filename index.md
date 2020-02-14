@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Quebec City
-tags: historique
+tags: example
 level: 4
-region: Canada
+region: North America
 ---
 
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
