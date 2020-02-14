@@ -1,6 +1,6 @@
 ---
-
 layout: col-sidebar
+displaytext: Acceuil
 title: OWASP Quebec City
 tags: Canada
 level: 4
