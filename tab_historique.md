@@ -1,10 +1,10 @@
 ---
-title: Évènements passés
+title: Historique
 displaytext: Évènements passés
 layout:  null
 tab: true
 order: 1
-tags: historique
+tags: historique-tag
 ---
 
 ## Évènements passés ##

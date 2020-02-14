@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Quebec City
-tags: example
+tags: Canada
 level: 4
 region: North America
 ---
