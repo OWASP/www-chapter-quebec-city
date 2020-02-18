@@ -1,8 +1,8 @@
 ---
 title: Historique
-layout:  col-sidebar
+layout:  null
 tab: true
-order: 2
+order: 4
 tags: historique-tag
 ---
 
