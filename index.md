@@ -41,7 +41,7 @@ faites-nous en part\! :**
     deserialization, Insufficient logging and monitoring)
   - Méthodes et outils de vérifications du code
   - Exploitations de vulnérabilités, contournements de mécanismes de
-    sécurité, comment les prévenir
+    sécurité et comment les prévenir
   - Sécurité des applications dans les architectures Web n-tiers et
     micro-services
   - Retour sur expériences dans la résolution et/ou l’implantation de
@@ -53,9 +53,10 @@ faites-nous en part\! :**
 
 **Logistique :**
 
-  - Les présentations devraient être de 45 minutes à 75 minutes maximum.
+  - Les présentations devraient être de 45 à 75 minutes maximum
   - Elles débutent généralement après 18h, en fonction des institutions
-    qui nous fourniront les locaux.
+    qui nous fourniront les locaux
+  - Brevages et croutilles seront fournis
 
 **Notes :**
 
