@@ -1,6 +1,5 @@
 ---
 title: Historique
-displaytext: Évènements passés
 layout:  col-sidebar
 tab: true
 order: 2
