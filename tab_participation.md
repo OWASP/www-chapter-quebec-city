@@ -2,9 +2,9 @@
 title: Participation
 displaytext: Participation
 layout:  null
-tab: false
-order: 3
-tags: Participation
+tab: true
+order: 2
+tags: OWASPQC
 ---
 
 ## Communauté ##
