@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-displaytext: Acceuil
+displaytext: OWASP Québec
 title: Acceuil
 tags: OWASPQC
 level: 4
