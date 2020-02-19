@@ -2,8 +2,8 @@
 title: Historique
 layout:  null
 tab: true
-order: 4
-tags: historique-tag
+order: 3
+tags: OWASPQC
 ---
 
 ## Évènements passés ##
