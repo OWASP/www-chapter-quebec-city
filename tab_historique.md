@@ -9,7 +9,8 @@ tags: OWASPQC
 ## Évènements passés ##
 
 ## 21 janvier 2020: Escalade de privilèges dans le Cloud: D'une simple vulnérabilité SSRF à "Administrateur Cloud Global"
-[100px](image:aximeLeblanc.png "wikilink")
+<img align="left" style="padding: 10px;" width="100px" src="assets/images/MaximeLeblanc.png" />
+
 **Maxime Leblanc**
 Information Security Specialist (SecOps)
 Poka
