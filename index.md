@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 displaytext: Acceuil
-title: OWASPQC
+title: Acceuil
 tags: OWASPQC
 level: 4
 region: North America
