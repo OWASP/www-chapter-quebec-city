@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 displaytext: Acceuil
-title: OWASP Quebec City
+title: OWASPQC
 tags: OWASPQC
 level: 4
 region: North America
