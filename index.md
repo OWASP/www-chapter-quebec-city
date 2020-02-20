@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
-displaytext: OWASP Quebec
-title: Acceuil
+displaytext: OWASP Quebec City
+title: OWASP Quebec City
 tags: OWASPQC
 level: 4
 region: North America
@@ -12,8 +12,8 @@ region: North America
 
 ## **Prochaines activités OWASP Québec**
 
--  17 mars 2020: sujet à confirmer
--  28 avril 2020: sujet à confirmer
+-  24 mars 2020: Top 10 des techniques de hacking web de 2019 
+-  20 avril 2020: Threat Modeling wins in Agile AppSec
 -  4 juin 2020: sujet à confirmer
 
 
