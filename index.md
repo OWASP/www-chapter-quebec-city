@@ -11,14 +11,14 @@ region: North America
 
 
 ## **Prochaines activités OWASP Québec**
-
+-------------------------------------------------------------------
 -  24 mars 2020: Top 10 des techniques de hacking web de 2019 
 -  20 avril 2020: Threat Modeling wins in Agile AppSec
 -  4 juin 2020: sujet à confirmer
 
 
 ## **OWASP Ville de Québec est à la recherche de conférenciers\!**
-
+-------------------------------------------------------------------
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP, SVP communiquez avec nous\!
@@ -68,9 +68,27 @@ faites-nous en part\! :**
   - La vente de produits est strictement interdite.
 
 
-## Chapter Supporters / Commanditaires du chapitre
-
+## **Chapter Supporters / Commanditaires du chapitre**
+-------------------------------------------------------------------
 ### Gold / Or
-[<img src="assets/images/Bentley_Logo_RGB_200px.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Bentley" />](https://www.bentley.com/)
-[<img src="assets/images/IAGF_150x80.jpg" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="iA" />](https://ia.ca/)
 
+<style type="text/css">
+    table.sponsors-table {
+        border-collapse: collapse;
+        border: none;
+    }
+
+    table.sponsors-table td, table.sponsors-table tr {
+        padding: 10px;
+        border: 15px;
+        background-color: #ffffff;
+    }
+</style>
+
+<table class="sponsors-table">
+    <tr>
+        <td> <a href="https://www.bentley.com/"> <img src="assets/images/Bentley_Logo_RGB_200px.png"  alt="BENTLEY" title="BENTLEY"/> </a> </td>
+        <td> <a href="https://ia.ca/"> <img src="assets/images/IAGF_150x80.jpg"  alt="iA" title="iA"/> </a> </td>
+    </tr>
+</table>
+<br>
