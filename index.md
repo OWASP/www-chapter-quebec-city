@@ -11,7 +11,8 @@ region: North America
 
 <br>
 
-## 24 mars 2020: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019
+## **24 mars 2020: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019**
+----------
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/DarioMartinsSilva.png" />
 
 **Dario Martins Silva**
