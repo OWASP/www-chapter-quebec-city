@@ -17,7 +17,7 @@ region: North America
 **Dario Martins Silva**
 <br>Sécurité des applications
 <br>Bentley Systems
-<br><br><br>
+<br><br>
 #### Description
 Il peut être difficile de rester à l’affut de toutes les nouvelles qui touchent à la sécurité web. Pour nous aider à ne rien manquer, PortSwigger compile à chaque année 10 techniques d’attaque web qui présentent des concepts novateurs. Nous explorerons quelques-unes de ces techniques ensemble.
 
