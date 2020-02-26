@@ -12,13 +12,12 @@ region: North America
 <br>
 
 ## 24 mars 2020: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019
-<img align="left" style="padding: 10px;" width="100px" src="assets/images/DarioMartinsSilva.png" />
+<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/DarioMartinsSilva.png" />
 
 **Dario Martins Silva**
 <br>Sécurité des applications
 <br>Bentley Systems
 <br><br><br>
-
 #### Description
 Il peut être difficile de rester à l’affut de toutes les nouvelles qui touchent à la sécurité web. Pour nous aider à ne rien manquer, PortSwigger compile à chaque année 10 techniques d’attaque web qui présentent des concepts novateurs. Nous explorerons quelques-unes de ces techniques ensemble.
 
@@ -39,12 +38,15 @@ Le stationnement accessible à partir de la rue Nicolas Pinel est gratuit à par
 
 #### Merci à notre partenaire académique pour l'événement
 [<img src="assets/images/cegep_ste-foy_(117x45).png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Cégep de Sainte-Foy" width="100px" />](http://www.cegep-ste-foy.qc.ca/)
-<br><br>
+<br><br><br>
+
 
 ## **Prochaines activités OWASP Québec**
 -------------------------------------------------------------------
 -  20 avril 2020: Threat Modeling wins in Agile AppSec
 -  4 juin 2020: sujet à confirmer
+<br>
+<br>
 
 
 ## **OWASP Ville de Québec est à la recherche de conférenciers\!**
@@ -96,6 +98,8 @@ faites-nous en part\! :**
     OWASP est soumise à l'acceptation préalable du règlement des
     conférenciers
   - La vente de produits est strictement interdite.
+<br>
+<br>
 
 
 ## **Chapter Supporters / Commanditaires du chapitre**
