@@ -1,8 +1,8 @@
 ---
 layout: col-sidebar
-displaytext: Acceuil
+displaytext: OWASP Quebec City
 title: OWASP Quebec City
-tags: Canada
+tags: OWASPQC
 level: 4
 region: North America
 ---
@@ -38,13 +38,13 @@ Le stationnement accessible à partir de la rue Nicolas Pinel est gratuit à par
 
 
 ## **Prochaines activités OWASP Québec**
-
+-------------------------------------------------------------------
 -  20 avril 2020: Threat Modeling wins in Agile AppSec
 -  4 juin 2020: sujet à confirmer
 
 
 ## **OWASP Ville de Québec est à la recherche de conférenciers\!**
-
+-------------------------------------------------------------------
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP, SVP communiquez avec nous\!
@@ -67,7 +67,7 @@ faites-nous en part\! :**
     deserialization, Insufficient logging and monitoring)
   - Méthodes et outils de vérifications du code
   - Exploitations de vulnérabilités, contournements de mécanismes de
-    sécurité, comment les prévenir
+    sécurité et comment les prévenir
   - Sécurité des applications dans les architectures Web n-tiers et
     micro-services
   - Retour sur expériences dans la résolution et/ou l’implantation de
@@ -79,9 +79,10 @@ faites-nous en part\! :**
 
 **Logistique :**
 
-  - Les présentations devraient être de 45 minutes à 75 minutes maximum.
+  - Les présentations devraient être de 45 à 75 minutes maximum
   - Elles débutent généralement après 18h, en fonction des institutions
-    qui nous fourniront les locaux.
+    qui nous fourniront les locaux
+  - Brevages et croutilles seront fournis
 
 **Notes :**
 
@@ -93,9 +94,27 @@ faites-nous en part\! :**
   - La vente de produits est strictement interdite.
 
 
-## Chapter Supporters / Commanditaires du chapitre
-
+## **Chapter Supporters / Commanditaires du chapitre**
+-------------------------------------------------------------------
 ### Gold / Or
-[<img src="assets/images/Bentley_Logo_RGB_200px.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Bentley" />](https://www.bentley.com/)
-[<img src="assets/images/IAGF_150x80.jpg" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="iA" />](https://ia.ca/)
 
+<style type="text/css">
+    table.sponsors-table {
+        border-collapse: collapse;
+        border: none;
+    }
+
+    table.sponsors-table td, table.sponsors-table tr {
+        padding: 25px;
+        border: 15px;
+        background-color: #ffffff;
+    }
+</style>
+
+<table class="sponsors-table">
+    <tr>
+        <td> <a href="https://www.bentley.com/"> <img src="assets/images/Bentley_Logo_RGB_200px.png"  alt="BENTLEY" title="BENTLEY"/> </a> </td>
+        <td> <a href="https://ia.ca/"> <img src="assets/images/IAGF_150x80.jpg"  alt="iA" title="iA"/> </a> </td>
+    </tr>
+</table>
+<br>
