@@ -79,7 +79,7 @@ faites-nous en part\! :**
     }
 
     table.sponsors-table td, table.sponsors-table tr {
-        padding: 10px;
+        padding: 25px;
         border: 15px;
         background-color: #ffffff;
     }
