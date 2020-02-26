@@ -10,15 +10,44 @@ region: North America
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
 
 
-## **Prochaines activités OWASP Québec**
+## 24 mars 2020: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019
+<img align="left" style="padding: 10px;" width="100px" src="assets/images/DarioMartinsSilva.png" />
 
--  24 mars 2020: Top 10 des techniques de hacking web de 2019 
+**Dario Martins Silva**
+<br>Sécurité des applications
+<br>Bentley Systems
+<br><br><br>
+
+#### Description
+Il peut être difficile de rester à l’affut de toutes les nouvelles qui touchent à la sécurité web. Pour nous aider à ne rien manquer, PortSwigger compile à chaque année 10 techniques d’attaque web qui présentent des concepts novateurs. Nous explorerons quelques-unes de ces techniques ensemble.
+
+#### Lieu
+Local A225 du Cégep de Sainte-Foy
+
+#### Horaire
+18:15 - 18:30 Accueil
+<br>18:30 - 20:00 Conférence
+<br>20:00 - Réseautage et sortie dans un pub pour les intéressés
+
+#### Stationnement
+Le stationnement accessible à partir de la rue Nicolas Pinel est gratuit à partir de 18h00
+
+#### Ouvert à tous! Inscription gratuite! RSVP!
+[<img src="assets/images/Eventbrite_Logo.svg" style="float: left; margin-right: 15px; margin-bottom: 15px;" width="100px" alt="Eventbrite" />](https://www.eventbrite.ca/e/billets-faits-marquants-du-top-10-des-nouvelles-techniques-dattaque-web-de-2019-96800664393)
+<br>
+
+#### Merci à notre partenaire académique pour l'événement
+[<img src="assets/images/cegep_ste-foy_(117x45).png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Cégep de Sainte-Foy" width="100px" />](http://www.cegep-ste-foy.qc.ca/)
+<br><br>
+
+## **Prochaines activités OWASP Québec**
+-------------------------------------------------------------------
 -  20 avril 2020: Threat Modeling wins in Agile AppSec
 -  4 juin 2020: sujet à confirmer
 
 
 ## **OWASP Ville de Québec est à la recherche de conférenciers\!**
-
+-------------------------------------------------------------------
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP, SVP communiquez avec nous\!
@@ -68,9 +97,27 @@ faites-nous en part\! :**
   - La vente de produits est strictement interdite.
 
 
-## Chapter Supporters / Commanditaires du chapitre
-
+## **Chapter Supporters / Commanditaires du chapitre**
+-------------------------------------------------------------------
 ### Gold / Or
-[<img src="assets/images/Bentley_Logo_RGB_200px.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Bentley" />](https://www.bentley.com/)
-[<img src="assets/images/IAGF_150x80.jpg" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="iA" />](https://ia.ca/)
 
+<style type="text/css">
+    table.sponsors-table {
+        border-collapse: collapse;
+        border: none;
+    }
+
+    table.sponsors-table td, table.sponsors-table tr {
+        padding: 25px;
+        border: 15px;
+        background-color: #ffffff;
+    }
+</style>
+
+<table class="sponsors-table">
+    <tr>
+        <td> <a href="https://www.bentley.com/"> <img src="assets/images/Bentley_Logo_RGB_200px.png"  alt="BENTLEY" title="BENTLEY"/> </a> </td>
+        <td> <a href="https://ia.ca/"> <img src="assets/images/IAGF_150x80.jpg"  alt="iA" title="iA"/> </a> </td>
+    </tr>
+</table>
+<br>
