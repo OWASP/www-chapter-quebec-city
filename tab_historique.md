@@ -8,8 +8,8 @@ tags: OWASPQC
 
 ## Évènements passés ##
 
-|Date | Conférencier(s) | Sujet |
-|:-----|:---------------|:------|
+|Date      | Conférencier(s) | Sujet |
+|:---------|:---------------|:-------|
 |2020/01/21|Maxime Leblanc|[Escalade de privilèges dans le Cloud: D'une simple vulnérabilité SSRF à "Administrateur Cloud Global"](historique/20200121.md)|
 |2019/11/19|Louis-Philippe Déry|[Securing open sources libraries in open source code package](historique/20191119.md)|
 |2019/11/01|OWASP QC et MTL|[kiosque et CTF OWASP au Hackfest UpsideDown](historique/20191101.md)|
