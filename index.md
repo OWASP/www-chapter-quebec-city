@@ -31,7 +31,7 @@ Local A225 du Cégep de Sainte-Foy
 Le stationnement accessible à partir de la rue Nicolas Pinel est gratuit à partir de 18h00
 
 #### Ouvert à tous! Inscription gratuite! RSVP!
-[<img src="assets/images/Eventbrite.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Cégep de Sainte-Foy" />](https://www.eventbrite.ca/e/billets-faits-marquants-du-top-10-des-nouvelles-techniques-dattaque-web-de-2019-96800664393)
+[<img src="assets/images/e_eventbrite.png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Eventbrite" />](https://www.eventbrite.ca/e/billets-faits-marquants-du-top-10-des-nouvelles-techniques-dattaque-web-de-2019-96800664393)
 
 #### Merci à notre partenaire académique pour l'événement
 [<img src="assets/images/cegep_ste-foy_(117x45).png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Cégep de Sainte-Foy" />](http://www.cegep-ste-foy.qc.ca/)
