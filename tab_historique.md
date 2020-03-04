@@ -6,22 +6,67 @@ order: 3
 tags: OWASPQC
 ---
 
-{% assign years = ['2020', '2019']}
+# 2020
 
-{% for year in years %}
-# [{{ year }}]
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" %}
 
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
+# 2019
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
+# 2018
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2018'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
 {% endfor %}
 
 
+# 2017
 
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2017'" %}
 
-----
-----
-# 2020
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
 
-{% assign page_event_2020 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" %}
+# 2016
 
-{% for page in page_event_2020 %}
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2016'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
+# 2015
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2015'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
+# 2014
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2014'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
+# 2013
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2013'" %}
+
+{% for page in page_event %}
 * [{{ page.title }}]({{site.baseurl }}{{ page.url }})
 {% endfor %}
