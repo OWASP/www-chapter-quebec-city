@@ -11,7 +11,7 @@ region: North America
 
 <br>
 
-## **24 mars 2020: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019**
+## **CONFERENCE REPORTÉE: Faits marquants du top 10 des nouvelles techniques d’attaque web de 2019**
 ----------
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/DarioMartinsSilva.png" />
 
@@ -21,25 +21,6 @@ region: North America
 <br><br>
 #### Description
 Il peut être difficile de rester à l’affut de toutes les nouvelles qui touchent à la sécurité web. Pour nous aider à ne rien manquer, PortSwigger compile à chaque année 10 techniques d’attaque web qui présentent des concepts novateurs. Nous explorerons quelques-unes de ces techniques ensemble.
-
-#### Lieu
-Local A225 du Cégep de Sainte-Foy
-
-#### Horaire
-18:15 - 18:30 Accueil
-<br>18:30 - 20:00 Conférence
-<br>20:00 - Réseautage et sortie dans un pub pour les intéressés
-
-#### Stationnement
-Le stationnement accessible à partir de la rue Nicolas Pinel est gratuit à partir de 18h00
-
-#### Ouvert à tous! Inscription gratuite! RSVP!
-[<img src="assets/images/Eventbrite_Logo.svg" style="float: left; margin-right: 15px; margin-bottom: 15px;" width="100px" alt="Eventbrite" />](https://www.eventbrite.ca/e/billets-faits-marquants-du-top-10-des-nouvelles-techniques-dattaque-web-de-2019-96800664393)
-<br>
-
-#### Merci à notre partenaire académique pour l'événement
-[<img src="assets/images/cegep_ste-foy_(117x45).png" style="float: left; margin-right: 15px; margin-bottom: 15px;" alt="Cégep de Sainte-Foy" width="100px" />](http://www.cegep-ste-foy.qc.ca/)
-<br><br><br>
 
 
 ## **Prochaines activités OWASP Québec**
