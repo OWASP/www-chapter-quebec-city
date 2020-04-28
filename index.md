@@ -43,7 +43,8 @@ Date and Time:
 <br>7:00 PM – 8:30 PM EDT
 
 <a href="https://www.eventbrite.ca/e/security-turnstiles-for-agile-engineering-tickets-103759882602"><img src="../www-chapter-quebec-city/assets/images/Eventbrite_Logo.svg"></a>
-
+<br>
+<br>
 ## **Prochaines activités OWASP Québec**
 
 ---
