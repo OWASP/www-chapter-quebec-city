@@ -36,11 +36,11 @@ Key Takeaways
 
 **Note: La conférence sera en anglais**
 
-**Open to everyone! Free registration! RSVP!!**
+**Date and Time:**
+<br>&nbsp;&nbsp;&nbsp;Wed, 13 May 2020
+<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EDT
 
-Date and Time:
-<br>Wed, 13 May 2020
-<br>7:00 PM – 8:30 PM EDT
+**Open to everyone! Free registration! RSVP!!**
 
 <a href="https://www.eventbrite.ca/e/security-turnstiles-for-agile-engineering-tickets-103759882602"><img src="../www-chapter-quebec-city/assets/images/Eventbrite_Logo.svg"></a>
 <br>
