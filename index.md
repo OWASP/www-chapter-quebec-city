@@ -70,7 +70,7 @@ Dans cette présentation, nous allons couvrir les différentes approches pour ef
 
 **Date et Heure:**
 <br>&nbsp;&nbsp;&nbsp;Jeudi, 4 juin 2020
-<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM ET
+<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EST
 
 **Inscription gratuite! RSVP!!**
 
