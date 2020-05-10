@@ -68,9 +68,9 @@ Pour participer, vous n’avez pas besoin d’un background de hacker ayant trav
 
 Dans cette présentation, nous allons couvrir les différentes approches pour effectuer une modélisation de menace tout en regardant comment nous pouvons intégrer cette pratique de sécurité dans un cycle de développement applicatif (SDLC).
 
-**Date and Time:**
+**Date et Heure:**
 <br>&nbsp;&nbsp;&nbsp;Jeudi, 4 juin 2020
-<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EDT
+<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM ET
 
 **Inscription gratuite! RSVP!!**
 
