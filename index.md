@@ -11,7 +11,7 @@ region: North America
 
 <br>
 
-## **Webinar : Security Turnstiles for Agile Engineering**
+## **2020/05/13 Webinar : Security Turnstiles for Agile Engineering**
 
 ---
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/Rahul_Raghavan.jpg" />
@@ -45,11 +45,45 @@ Key Takeaways
 <a href="https://www.eventbrite.ca/e/security-turnstiles-for-agile-engineering-tickets-103759882602"><img src="../www-chapter-quebec-city/assets/images/Eventbrite_Logo.svg"></a>
 <br>
 <br>
+
+---
+
+## **2020/06/04 Webinar : Introduction à la modélisation de menaces**
+
+---
+<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/LouisPhilippeDubuc.png" />
+
+**Louis-Philippe Dubuc**
+<br>Analyste en sécurité applicative
+<br>iA groupe financier
+<br><br>
+
+#### Description
+
+Le «Threat Modeling» est un terme de plus en plus utilisé dans le domaine de la sécurité. Plusieurs sont ceux qui ont entendu parler de ce terme! Mais encore aujourd’hui, cette pratique est très peu répandue dans les équipes de développement.
+
+Cette présentation a pour but de vous introduire au monde de la modélisation de menace tout en démontrant ces nombreux avantages.
+
+Pour participer, vous n’avez pas besoin d’un background de hacker ayant travaillé pour les services secrets! Cette présentation se veut pour toute personne ayant un intérêt pour la sécurité.
+
+Dans cette présentation, nous allons couvrir les différentes approches pour effectuer une modélisation de menace tout en regardant comment nous pouvons intégrer cette pratique de sécurité dans un cycle de développement applicatif (SDLC).
+
+**Date and Time:**
+<br>&nbsp;&nbsp;&nbsp;Jeudi, 4 juin 2020
+<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EDT
+
+**Inscription gratuite! RSVP!!**
+
+<a href="https://www.eventbrite.ca/e/introduction-a-la-modelisation-de-menaces-tickets-104259087738"><img src="../www-chapter-quebec-city/assets/images/Eventbrite_Logo.svg"></a>
+<br>
+<br>
+<br>
 ## **Prochaines activités OWASP Québec**
 
 ---
 
-- 4 juin 2020: sujet à confirmer
+- septembre 2020: sujet et date à confirmer
+
 <br>
 <br>
 
