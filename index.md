@@ -11,42 +11,6 @@ region: North America
 
 <br>
 
-## **2020/05/13 Webinar : Security Turnstiles for Agile Engineering**
-
----
-<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/Rahul_Raghavan.jpg" />
-
-**Rahul Raghavan**
-<br>Co-Founder and Chief Evangelist
-<br>we45
-<br><br>
-
-#### Description
-
-This talk would focus on translating a plan of action into sustainable activities as part of the secure software development life cycle that can be adopted by engineering teams. I will delve deep into aspects like identifying and designing security checkpoints in the SDLC and talk about the various activities that product teams can start performing to improve their software security. The talk would also involve a proposed Plan -Do -Check -Act (PDCA) mechanism through which product engineering teams can ideate these checkpoints from ideation to deployment and all the way back.
-
-My talk would be fairly inspired from established HOW-TO guides such as the OWASP ASVS, OpenSAMM and BSIMM. In addition, the talk would also take examples and case studies from real life conversations and case studies from some of our recent experiences.
-
-Key Takeaways
-
-  1. Seamless integration possibilities for Out of Band and In Band security activities
-  2. Ideating security activities and checkpoints for every stage of the SDLC
-  3. Designing Hard and Soft Checkpoints
-  4. Establishing feedback circuits between the proverbial Shift Right and Shift Left
-
-**Note: La conférence sera en anglais**
-
-**Date and Time:**
-<br>&nbsp;&nbsp;&nbsp;Wed, 13 May 2020
-<br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EDT
-
-**Meeting link :**&nbsp;
-**[https://youtu.be/mRpexGGKHlU](https://youtu.be/mRpexGGKHlU)**
-<br>&nbsp;
-<br>
-
----
-
 ## **2020/06/04 Webinar : Introduction à la modélisation de menaces**
 
 ---
