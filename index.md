@@ -11,7 +11,7 @@ region: North America
 
 <br>
 
-## **2020/06/04 Webinar : Introduction à la modélisation de menaces**
+## **2020/06/17 Webinar : Introduction à la modélisation de menaces**
 
 ---
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/LouisPhilippeDubuc.png" />
