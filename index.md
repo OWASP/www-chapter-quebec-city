@@ -16,7 +16,7 @@ region: North America
 ---
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/LucPoulin.jpeg" />
 
-**Louis-Philippe Dubuc**
+**Luc Poulin**
 <br>Éditeur en chef de la série de normes ISO/IEC 27034
 <br>CEO, Conseiller senior en sécurité de l’information & sécurité applicative
 <br>Cogentas inc<br>
