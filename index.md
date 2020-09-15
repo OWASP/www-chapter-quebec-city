@@ -11,33 +11,29 @@ region: North America
 
 <br>
 
-## **2020/06/17 Webinar : Introduction à la modélisation de menaces**
+## **2020/09/29 : Une norme qui aide vraiment la sécurité? La série ISO 27034 peut-elle devenir le TDD (« Test Driven Development ») des certifications?**
 
 ---
-<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/LouisPhilippeDubuc.png" />
+<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/LucPoulin.jpeg" />
 
 **Louis-Philippe Dubuc**
-<br>Analyste en sécurité applicative
-<br>iA groupe financier
-<br><br>
+<br>Éditeur en chef de la série de normes ISO/IEC 27034
+<br>CEO, Conseiller senior en sécurité de l’information & sécurité applicative
+<br>Cogentas inc<br>
 
 #### Description
 
-Le «Threat Modeling» est un terme de plus en plus utilisé dans le domaine de la sécurité. Plusieurs sont ceux qui ont entendu parler de ce terme! Mais encore aujourd’hui, cette pratique est très peu répandue dans les équipes de développement.
+Dans cette conférence, nous allons discuter de la nouvelle série de normes ISO 27034 pour la sécurité applicative (et bien plus!).
 
-Cette présentation a pour but de vous introduire au monde de la modélisation de menace tout en démontrant ces nombreux avantages.
-
-Pour participer, vous n’avez pas besoin d’un background de hacker ayant travaillé pour les services secrets! Cette présentation se veut pour toute personne ayant un intérêt pour la sécurité.
-
-Dans cette présentation, nous allons couvrir les différentes approches pour effectuer une modélisation de menace tout en regardant comment nous pouvons intégrer cette pratique de sécurité dans un cycle de développement applicatif (SDLC).
+Comme il s’agit d’un sujet vaste, nous allons focuser sur quelques études de cas et anecdotes intéressantes pour les développeurs, au lieu de faire une présentation théorique.
 
 **Date et Heure:**
-<br>&nbsp;&nbsp;&nbsp;Jeudi, 17 juin 2020
+<br>&nbsp;&nbsp;&nbsp;Mardi, 29 septembre 2020
 <br>&nbsp;&nbsp;&nbsp;7:00 PM – 8:30 PM EST
 
 **Inscription gratuite! RSVP!!**
 
-<a href="https://www.eventbrite.ca/e/introduction-a-la-modelisation-de-menaces-tickets-104259087738"><img src="../www-chapter-quebec-city/assets/images/Eventbrite_Logo.svg"></a>
+<a href="https://www.eventbrite.ca/e/billets-la-norme-iso-27034-peut-elle-devenir-le-tdd-des-certifications-de-securite-121116904923"><img src="./assets/images/Eventbrite_Logo.svg"></a>
 <br>
 <br>
 <br>
@@ -45,7 +41,7 @@ Dans cette présentation, nous allons couvrir les différentes approches pour ef
 
 ---
 
-- septembre 2020: sujet et date à confirmer
+- octobre 2020: **DAST Automation Workshop**, date à venir.
 
 <br>
 <br>
