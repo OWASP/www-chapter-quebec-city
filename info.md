@@ -6,4 +6,4 @@
 * [Twitter](https://twitter.com/owaspquebec)
 * [Facebook](https://www.facebook.com/OwaspQuebec)
 * [Mail List](https://groups.google.com/a/owasp.org/forum/#!forum/quebec-city-chapter/join)
-* [Owasp-quebec sur le discord du HackFest](https://discord.gg/WcT5Xrd)
+* [Discord du HackFest](https://discord.gg/WcT5Xrd)
