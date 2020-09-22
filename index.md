@@ -46,7 +46,7 @@ M. Poulin compte plus de trente années d'expérience en informatique durant les
 
 <br><br>
 
-# **2020/10/10 : Automate your favorite Dynamic Tools as part of your pentesting or DevSecOps pipeline?**
+# **2020/10/10 : Wouldn't it be great to automate your favorite Dynamic Tools like OWASP ZAP or BurpSuite as part of your pentesting or DevSecOps pipeline?**
 
 
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/Nithin Jois.jpeg" />
