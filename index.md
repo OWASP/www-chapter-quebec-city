@@ -41,7 +41,6 @@ M. Poulin compte plus de trente années d'expérience en informatique durant les
 <br>
 <br>
 <br>
-## **Prochaines activités OWASP Québec**
 
 ---
 
