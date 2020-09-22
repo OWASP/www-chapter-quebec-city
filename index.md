@@ -92,7 +92,7 @@ Nithin Jois is a Senior Solutions Engineer at [we45](https://www.we45.com/) - a 
 <br>&nbsp;&nbsp;&nbsp;Saturday, October 10, 2020
 <br>&nbsp;&nbsp;&nbsp;9:00 AM – 11:00 AM EST (duration 2 hours)
 
-**Inscription gratuite! RSVP!!**
+**RSVP! Free registration**
 
 <a href="https://www.eventbrite.ca/e/billets-devsecops-workshop-dast-automation-edition-by-we45-121968010603"><img src="./assets/images/Eventbrite_Logo.svg"></a>
 <br>
