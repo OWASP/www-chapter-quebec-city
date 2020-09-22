@@ -90,8 +90,7 @@ Nithin Jois is a Senior Solutions Engineer at we45 - a focused Application Secur
 
 **Inscription gratuite! RSVP!!**
 
-<a href="https://www.eventbrite.ca/e/billets-devsecops-workshop-dast-automation-edition-by-
-we45-121968010603"><img src="./assets/images/Eventbrite_Logo.svg"></a>
+<a href="https://www.eventbrite.ca/e/billets-devsecops-workshop-dast-automation-edition-by-we45-121968010603"><img src="./assets/images/Eventbrite_Logo.svg"></a>
 <br>
 <br>
 <br>
