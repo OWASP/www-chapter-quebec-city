@@ -21,13 +21,13 @@ region: North America
 <br>CEO, Conseiller senior en sécurité de l’information & sécurité applicative
 <br>Cogentas inc<br>
 
-#### Description
+## Description
 
-Dans cette conférence, nous allons discuter de la nouvelle série de normes ISO 27034 pour la sécurité applicative (et bien plus!).
+<div style="text-align: justify">Dans cette conférence, nous allons discuter de la nouvelle série de normes ISO 27034 pour la sécurité applicative (et bien plus!).
 
 Comme il s’agit d’un sujet vaste, nous allons focuser sur quelques études de cas et anecdotes intéressantes pour les développeurs, au lieu de faire une présentation théorique.
 
-M. Poulin compte plus de trente années d'expérience en informatique durant lesquelles il a acquis une solide expertise en technologie des systèmes et en génie logiciel. Il a notamment occupé les postes d’architecte de système et de sécurité chez Schlumberger et chez Nurun, puis les postes de chef de la sécurité du CRIM et de conseiller senior en sécurité au sein de l'équipe de l'ISIQ. M. Poulin dirige actuellement Cogentas, un institut de recherche en sécurité des applications. Il est l’éditeur de projet de la série de normes ISO/IEC 27034 : Application Security, qui concerne l'intégration de la sécurité dans le cycle de vie des systèmes TIC et rend cette sécurité mesurable. M. Poulin a complété un baccalauréat en informatique et une maîtrise en sécurité informatique à l'Université Laval, puis un doctorat en sécurité des applications de l’ÉTS. Il participe actuellement aux travaux de plusieurs commités internationaux.
+M. Poulin compte plus de trente années d'expérience en informatique durant lesquelles il a acquis une solide expertise en technologie des systèmes et en génie logiciel. Il a notamment occupé les postes d’architecte de système et de sécurité chez Schlumberger et chez Nurun, puis les postes de chef de la sécurité du CRIM et de conseiller senior en sécurité au sein de l'équipe de l'ISIQ. M. Poulin dirige actuellement Cogentas, un institut de recherche en sécurité des applications. Il est l’éditeur de projet de la série de normes ISO/IEC 27034 : Application Security, qui concerne l'intégration de la sécurité dans le cycle de vie des systèmes TIC et rend cette sécurité mesurable. M. Poulin a complété un baccalauréat en informatique et une maîtrise en sécurité informatique à l'Université Laval, puis un doctorat en sécurité des applications de l’ÉTS. Il participe actuellement aux travaux de plusieurs commités internationaux.</div>
 
 [LinkedIn - Luc Poulin](https://www.linkedin.com/in/lucpoulin/)
 
@@ -45,8 +45,57 @@ M. Poulin compte plus de trente années d'expérience en informatique durant les
 
 ---
 
-- octobre 2020: **DAST Automation Workshop**, date à venir.
+<br><br>
 
+# **2020/10/10 : Automate your favorite Dynamic Tools as part of your pentesting or DevSecOps pipeline?**
+
+
+<img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/Nithin Jois.jpeg" />
+
+**Nithin Jois**
+<br>Senior Solutions Engineer
+<br>[we45](https://www.we45.com/)
+<br><br>
+
+## Description
+
+<div style="text-align: justify">Wouldn't it be great to automate your favorite Dynamic Tools like OWASP ZAP or BurpSuite as part of your pentesting or DevSecOps pipeline? While this sounds great, there are several challenges that you will face in automating these tools. In addition, automating security testing for Single Page Applications (SPAs) and REST APIs is even more difficult because of authentication and access control requirements. This is a hands-on in-depth course that explores the security automation possibilities of OWASP ZAP. As part of our cyber-ranges you will get to explore the various automation possibilities and "recipes" with Dynamic Scanning tools, with a special focus on OWASP ZAP. You will learn to leverage Test Automation Frameworks like Selenium and Robot framework to perform fully authenticated and contextually aware scanning of your web applications and web services. In addition, you'll be building custom scripts for OWASP ZAP and BurpSuite to expand your scanning workflows to aid in pentesting as well as automation. Finally, we'll be looking at how you can integrate these tools into a DevSecOps or CI pipeline and leverage continuous scanning efforts for your applications.</div>
+
+## Summary
+
+<div style="text-align: justify">Deep-dive into OWASP ZAP and BurpSuite API and learn how to leverage these APIs for Security Automation
+Skip the inefficient spider. Leverage Test Automation with Selenium and other test automation frameworks to perform deeper and more powerful security testing against your Web Application or REST API.
+Learn advanced automation techniques by leveraging OWASP ZAP and BurpSuite in DevSecOps Pipelines
+Learn how you can leverage custom scripting frameworks in OWASP ZAP and BurpSuite to deliver more powerful security automation and pentesting workflows
+Prerequisites
+Requirements
+Knowledge of OWASP Top 10 Vulnerabilities and some exposure to Application Security Testing
+Basic knowledge of Web Vulnerability Scanning tools like OWASP ZAP will help
+System Requirements
+You will work on the labs from our cloud lab environment. We will share links to sign up before the workshop. Owing to this, you’ll not need to install additional software of any kind
+You will need: Reasonably powerful laptop or tablet computing device. Updated Browser (preferably Chrome)
+Bio
+Nithin Jois is a Senior Solutions Engineer at we45 - a focused Application Security company. He has helped build ‘Orchestron’ - A leading Application Vulnerability Correlation and Orchestration Framework. He is experienced in Orchestrating containerized deployments securely to Production. Nithin and his team have extensively used Docker APIs as a cornerstone to most of we45 developed security platforms and he has also helped clients of we45 deploy their Applications securely.Nithin is a passionate Open Source enthusiast and is the co-lead-developer of ThreatPlaybook - An Open Source framework that facilitates Threat Modeling as Code married with Application Security Automation on a single Fabric. He has also written multiple libraries that complement ThreatPlaybook.Nithin is an automation junkie who has built Scalable Scanner Integrations that leverage containers to the hilt and is passionate about Security, Containers and Serverless technology. He speaks at meetup groups, webinars and training sessions. He participates in multiple CTF events and has worked on creating Intentionally Vulnerable Applications for CTF competitions and Secure Code Training.Nithin was a trainer and speaker at events like AppSecDC-2019, AppSecUS-2018, SHACK-2019, AppSecCali-2019, DefCon-2019, BlackHat USA 2019, AppSecCali-2020 and many more! In his spare time, he loves reading about personal finance, leadership, fitness, cryptocurrency, and other such topics. Nithin is an avid traveler and loves sharing stories over a cup of hot coffee.</div>
+
+<br>
+
+### **This event is a courtesy of [we45](https://www.we45.com/)**
+
+<br>
+
+**Please note this event will be in English only**
+
+**Date et Heure:**
+<br>&nbsp;&nbsp;&nbsp;Saturday, October 10, 2020
+<br>&nbsp;&nbsp;&nbsp;9:00 AM – 11:00 AM EST (duration 2 hours)
+
+**Inscription gratuite! RSVP!!**
+
+<a href="https://www.eventbrite.ca/e/billets-devsecops-workshop-dast-automation-edition-by-
+we45-121968010603"><img src="./assets/images/Eventbrite_Logo.svg"></a>
+<br>
+<br>
+<br>
 <br>
 <br>
 
