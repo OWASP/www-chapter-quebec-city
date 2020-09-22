@@ -72,6 +72,7 @@ Wouldn't it be great to automate your favorite Dynamic Tools like [OWASP ZAP](ht
 ### Requirements
 * Knowledge of [OWASP Top 10](https://owasp.org/www-project-top-ten/) Vulnerabilities and some exposure to Application Security Testing
 * Basic knowledge of Web Vulnerability Scanning tools like OWASP ZAP will help
+
 ### System Requirements
 * You will work on the labs from our cloud lab environment. We will share links to sign up before the workshop. Owing to this, you’ll not need to install additional software of any kind
 * You will need: Reasonably powerful laptop or tablet computing device. Updated Browser (preferably Chrome)
