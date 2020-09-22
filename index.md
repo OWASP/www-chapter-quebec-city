@@ -85,7 +85,7 @@ Nithin Jois is a Senior Solutions Engineer at [we45](https://www.we45.com/) - a 
 
 **Please note this event will be in English only**
 
-**Date et Heure:**
+**Date and Hour:**
 <br>&nbsp;&nbsp;&nbsp;Saturday, October 10, 2020
 <br>&nbsp;&nbsp;&nbsp;9:00 AM – 11:00 AM EST (duration 2 hours)
 
