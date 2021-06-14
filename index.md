@@ -5,15 +5,23 @@ title: OWASP Quebec City
 tags: OWASPQC
 level: 4
 region: North America
+meetup-group: quebec-owasp-meetup-group
+
 ---
 
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
 
-<br>
-<br>
+## Upcoming Meetings
 
-# **2020/10/10 : DevSecOps Workshop - DAST Automation Edition (by [we45](https://www.we45.com/))**
+We schedule our meetings on the [OWASP Quebec City Meetup Group](https://www.meetup.com/quebec-owasp-meetup-group/)
 
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+## Past Meetings
+
+### **2020/10/10 : DevSecOps Workshop - DAST Automation Edition (by [we45](https://www.we45.com/))**
 
 <img align="left" style="padding: 10px; bottom-padding: 10px" width="100px" src="assets/images/Nithin Jois.jpeg" />
 
