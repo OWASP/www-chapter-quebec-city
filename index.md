@@ -13,7 +13,7 @@ meetup-group: quebec-owasp-meetup-group
 
 ---
 ## Prochaines rencontres
-
+<br>
 
 ### **2021/10/12 : Rencontre de chapitre OWASP Ville de Québec!**
 
