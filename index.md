@@ -11,11 +11,11 @@ meetup-group: quebec-owasp-meetup-group
 
 ![Quebec City Chapter Logo](assets/images/ville_quebec_981x303.png)
 
+---
 ## Prochaines rencontres
 
 
 ### **2021/10/12 : Rencontre de chapitre OWASP Ville de Québec!**
-<br>
 
 Comme vous le savez, le chapitre d'OWASP Ville de Québec se veut **une communauté locale de sensibilisation, d'échange et d'entraide en sécurité applicative, votre participation est donc importante!**  Évidemment, nous espérons pouvoir reprendre nos activités présentielles lorsque les conditions seront favorables, mais d'ici ce temps nous devons maintenir, voire réanimer notre communauté en poursuivant de façon virtuelle.
 
