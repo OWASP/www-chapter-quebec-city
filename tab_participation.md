@@ -26,33 +26,25 @@ conférenciers](https://owasp.org/www-policy/legal/speaker-agreement).
 la sécurité applicative, vos sujets nous intéressent également, alors
 faites-nous en part\! :**
 
-  - Démonstration d’utilisation d’outils de sécurité disponibles
-    gratuitement ou open source (ex : ZAP, AppSensor, FindSecBugs, Burp,
-    BeEF, ModSecurity, etc.).
-  - Les démonstrations et/ou retours d’expérience d’outils de sécurité
-    applicative commerciaux sont permis, toutefois dans un souci de
-    neutralité et d’indépendance, nous demandons à ce que ces
-    présentations demeurent impartiales
-  - Couverture d’un élément du Top 10 OWASP 2017 (ex : XXE, Insecure
-    deserialization, Insufficient logging and monitoring)
-  - Méthodes et outils de vérifications du code
-  - Exploitations de vulnérabilités, contournements de mécanismes de
-    sécurité et comment les prévenir
-  - Sécurité des applications dans les architectures Web n-tiers et
-    micro-services
-  - Retour sur expériences dans la résolution et/ou l’implantation de
-    fonctions de sécurité
+  - Démonstration d’utilisation d'outils de sécurité disponibles gratuitement ou open source
+  - Couverture d'un élément du Top 10 OWASP 2021 (ex : Software and Data integrity failure, Server-side Request Forgery, Security Logging and Monitoring Failures)
+  - Méthodes, processus et outils de vérifications du code
+  - Exploitations de vulnérabilités, contournements de mécanismes de sécurité, comment les prévenir
+  - Sécurité des applications dans les architectures Web n-tiers et micro-service
+  - Enjeux et sécurité des API
+  - Retour sur expériences dans la résolution et/ou l'implantation de fonctions de sécurité
   - Les pièges à éviter dans les configurations CORS
-  - L’usage sécuritaire des JWT
-  - Projets de recherches, discussions ouvertes, workshops,
-    brainstorming
+  - L'usage sécuritaire des JWT
+  - Intégration de la sécurité dans un mode DevOps et CI/CD i.e. SecDevOps
+  - Retours d'expérience, projets de recherches, discussions ouvertes, workshops, brainstorming, Etc.
 
 **Logistique :**
 
-  - Les présentations devraient être de 45 à 75 minutes maximum
-  - Elles débutent généralement après 18h, en fonction des institutions
-    qui nous fourniront les locaux
-  - Brevages et croutilles seront fournis
+  - Étant donné le contexte de la pandémie les présentations doivent encore se tenir en virtuel, toutefois dès que nous pourrons nous désirons reprendre nos activités de chapitre en présentiel.
+  - Les présentations ont généralement une durée de 40 minutes à 75 minutes.
+  - Elles ont lieu préférablement un mardi ou mercredi dès 19h (toutefois nous sommes ouverts à prendre d'autres arrangements si nécessaire).
+  - Nous pouvons fournir la plateforme de diffusion, ou si vous préférez utiliser la vôtre du moment qu’elle est facilement accessible à tous.
+  - Le contenu de la présentation devrait nous être soumis au moins une semaine à l'avance afin que nous puissions vérifier qu'elle respecte les valeurs de neutralité et d'impartialité d’OWASP.
 
 **Notes :**
 
