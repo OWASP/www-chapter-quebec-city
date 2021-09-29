@@ -13,7 +13,9 @@ meetup-group: quebec-owasp-meetup-group
 
 ## Prochaines rencontres
 
+
 ### **2021/10/12 : Rencontre de chapitre OWASP Ville de Québec!**
+<br>
 
 Comme vous le savez, le chapitre d'OWASP Ville de Québec se veut **une communauté locale de sensibilisation, d'échange et d'entraide en sécurité applicative, votre participation est donc importante!**  Évidemment, nous espérons pouvoir reprendre nos activités présentielles lorsque les conditions seront favorables, mais d'ici ce temps nous devons maintenir, voire réanimer notre communauté en poursuivant de façon virtuelle.
 
@@ -24,9 +26,14 @@ Le 12 octobre de 19h-20h nous tiendrons une rencontre Zoom afin de solliciter vo
  
 
 Alors que ce soit pour nous suggérer des sujets de présentation ou d'échanges, pour présenter un sujet ou une expérience, pour suggérer ou organiser un événement, **nous voulons vous entendre!  La parole est à vous!**
+<br>
+<br>
 
 **Date et heure:**
-<br>&nbsp;&nbsp;&nbsp;Mardi 12 octobre 2021: &nbsp;&nbsp;&nbsp;7:00 PM – 8:00 PM EST
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mardi 12 octobre 2021: &nbsp;&nbsp;&nbsp;7:00 PM – 8:00 PM EST
+<br>
+<br>
 
 **RSVP! Free registration**
 
