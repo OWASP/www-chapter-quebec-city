@@ -15,36 +15,38 @@ meetup-group: quebec-owasp-meetup-group
 ## Prochaines rencontres
 <br>
 
-### **2021/10/12 : Rencontre de chapitre OWASP Ville de Québec!**
+### **2 novembre : Top 10 des vulnérabilités web : Mise à jour 2021 !**
 
-Comme vous le savez, le chapitre d'OWASP Ville de Québec se veut **une communauté locale de sensibilisation, d'échange et d'entraide en sécurité applicative, votre participation est donc importante!**  Évidemment, nous espérons pouvoir reprendre nos activités présentielles lorsque les conditions seront favorables, mais d'ici ce temps nous devons maintenir, voire réanimer notre communauté en poursuivant de façon virtuelle.
+<img align="left" style="padding: 10px;" width="100px" src="./assets/images/200px-LouisNadeau.png" /> 
 
- 
+**Louis Nadeau**
+<br>Co-leader du chapitre OWASP Ville de Québec
+<br>Responsable de la sécurité
+<br>Bentley Systems<br>
 
-Le 12 octobre de 19h-20h nous tiendrons une rencontre Zoom afin de solliciter votre participation pour discuter de vos champs d'intérêts en sécurité applicative, d'idées d'événements et de conférences que nous pourrions organiser dans les prochaines semaines.
+#### Description
 
- 
-
-Alors que ce soit pour nous suggérer des sujets de présentation ou d'échanges, pour présenter un sujet ou une expérience, pour suggérer ou organiser un événement, **nous voulons vous entendre!  La parole est à vous!**
-<br>
+  - Qu'est-ce que le Top 10 de l'OWASP ?
+  - Données et méthodologies utilisées pour établir le Top 10
+  - Contenu du nouveau Top 10
 <br>
 
 **Date et heure:**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Mardi 12 octobre 2021: &nbsp;&nbsp;&nbsp;7:00 PM – 8:00 PM EST
+&nbsp;&nbsp;&nbsp;&nbsp;Mardi 2 novembre 2021: &nbsp;&nbsp;&nbsp;7:00 PM – 8:00 PM EST
 <br>
 <br>
 
 **RSVP! Free registration**
 
-<a href="https://www.eventbrite.ca/e/billets-rencontre-de-chapitre-owasp-ville-de-quebec-178902862277"><img src="./assets/images/Eventbrite_Logo.svg"></a>
+<a href="https://www.eventbrite.ca/e/billets-owasp-quebec-top-10-des-vulnerabilites-web-selon-owasp-mise-a-jour-2021-192028280757"><img src="./assets/images/Eventbrite_Logo.svg"></a>
 <br>
 
-[**Join Zoom Meeting**](https://us06web.zoom.us/j/84529156549?pwd=Rjc5VDhpZW1KTHQ2Q3dQdE9acmFrUT09)
+[**Join Zoom Meeting**](https://us06web.zoom.us/j/87588556889?pwd=b0orQTF6WDloSUhLVHQrWnhlbk0zQT09)
 <br>
-Meeting ID: 845 2915 6549
+Meeting ID: 875 8855 6889
 <br>
-Passcode: 451263
+Passcode: 594999
 <br>
 <br>
 
