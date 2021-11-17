@@ -21,7 +21,7 @@ meetup-group: quebec-owasp-meetup-group
 
 **Tony Roy**
 <br>Software Programmer
-<br>
+<br>Wicked Software
 <br>
 <br>
 
