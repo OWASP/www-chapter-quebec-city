@@ -15,7 +15,10 @@ meetup-group: quebec-owasp-meetup-group
 ## Prochaine rencontre
 <br>
 
-### **8 février 2022: Sujet à déterminer**
+### **8 février 2022: Rencontre informelle: discussions et échanges**
+Par exemple: comment avez-vous vécu la vulnérabilité Log4j récemment? En espérant ce cauchemard déjà derrière vous! <br>
+On réagit comment? On prévient comment? Quelles leçons à en tirer?
+<br>
 
 **Date et heure:**
 <br>
