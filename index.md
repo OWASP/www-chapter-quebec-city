@@ -5,6 +5,7 @@ title: OWASP Quebec City
 tags: OWASPQC
 level: 4
 region: North America
+country: Canada
 meetup-group: quebec-owasp-meetup-group
 
 ---
