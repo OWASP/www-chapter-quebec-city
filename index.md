@@ -15,66 +15,55 @@ meetup-group: quebec-owasp-meetup-group
 <!--
   Ceci est un commentaire
 -->
-## 15 Novembre 2023: Conference: OWASP Top 10 CI/CD Security Risks
+## Upcoming Event
 
+### 2 Juillet 2024: Conference: ChatGPT comme assistant de programmation: atout ou risque?
 
-<img align="left" style="padding: 10px;" width="200px" src="./assets/images/200px-Magno.png" />
+<img align="left" style="padding: 10px;" width="200px" src="./assets/images/200px-Raphael_Khoury.png" />
 
+**Raphaël Khoury, Ph.D., P. Eng**<br>
+Professeur<br>
+Université du Québec à Gatineau
 
-**Magno Logan**
-<br>Information Security Specialist
-<br>Trend Micro<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br clear="left"/>
 
-### Description:
+#### Description:
 
-This talk is designed for software developers, security professionals, and anyone involved in the software development lifecycle interested in learning about common security risks that can occur in continuous integration and continuous deployment (CI/CD) environments. During the talk, participants will learn about the most critical items on the OWASP Top 10 CI/CD Security Risks, which include vulnerabilities such as dependency chain abuse, poisoned pipeline and insufficient flow control, PBAC, credential hygiene, and logging.
+Les LLMs, tel que ChatGPT, sont de plus en plus utilisés par les programmeurs pour générer des fragments de code, et même des programmes entiers. Cependant, le niveau de sécurité du code ainsi généré est imparfait. Dans cette présentation, nous passerons en revue les recherches initiales effectuées pour évaluer la capacité des LLMs à générer du code sécuritaire, ainsi qu’à effectuer d’autres tâches de sécurité telles que détecter et classer les vulnérabilités dans le code, de même que corriger des vulnérabilités qui sont subséquemment identifiées.
 
-***>> This talk will be in English <<***
+#### Bio:
 
-### Bio:
+M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Laval et a été chercheur postdoctoral au centre de Recherche et développement pour la défense Canada (RDDC-RDDC) à Valcartier, au Canada. Il est actuellement professeur à l’université du Québec à Gatineau.  Ses recherches portent sur tous les aspects de la sécurité des logiciels, et est l’auteur du livre « La Sécurité Logicielle : une approche défensive ». Il est récipiendaire de subventions de recherche du FQRNT et du CRSNG. Ses recherches ont également été financées par l'industrie.
 
-As an Information Security Specialist, Magno Logan specializes in Cloud, Container, Application Security Research, Threat Modeling, and Kubernetes Security. He is a sought-after speaker at worldwide security conferences and founded the JampaSec Security Conference and the OWASP Paraiba Chapter. He has previously served as a Snyk Ambassador and member of the CNCF Security TAG.
+#### Event Details:
 
-### Date et heure: 
+| Date       | Time          | Activity                 |
+|------------|---------------|--------------------------|
+| 2024-07-02 | 17:30 - 17:50 | Accueil / enregistrement |
+|            | 17:50 - 18:00 | Annonces de chapitre     |
+|            | 18:00 - 19:00 | Conférence               |
+|            | 19:00         | Discussions libres       |
 
-	Mercredi, 15 Novembre 2023
-		Accueil / enregistrement	: 17:00 - 17:50
-		Annonces de chapitre		: 17:50 - 18:00
-		Conférence			: 18:00 – 19:00
-		Discussions libres		: 19:00
-
-
-### Lieu
-
-**Pacini Québec Sainte-Foy**<br>
+**Location:**<br>
+Pacini Québec Sainte-Foy<br>
 999, avenue de Bourgogne<br>
 Québec (Québec)  G1W 4S6<br>
 
+#### Event Sponsor:
 
-### Commanditaire de l'événement:
+<a href="https://beneva.ca"><img src="./assets/images/200px-Beneva_Logo.png"></a>
 
-<a href="https://trendmicro.com"><img src="./assets/images/200px-TrendMicro_Logo.png"></a>
+Merci à **Beneva**, commanditaire de l'événement!<br>
+Bouchées et breuvages seront servis, et des prix de présence seront distribués aux personnes présentes, gracieuseté de notre commanditaire.
 
-Merci à **Trend Micro**, commanditaire de l'événement!<br>
-Bouchées et breuvages seront servis, gracieuseté de notre commanditaire.
+#### RSVP! Places limitées!
 
+[**Inscription gratuite et obligatoire!**](https://www.meetup.com/fr-FR/owasp-quebec-city-chapter/events/301421240/)
 
-### RSVP! Places limitées!
-
-[**Inscription gratuite et obligatoire!**](https://www.eventbrite.ca/e/conference-owasp-top-10-cicd-security-risks-tickets-740575831247?aff=oddtdtcreator)
-
-<a href="https://www.eventbrite.ca/e/conference-owasp-top-10-cicd-security-risks-tickets-740575831247?aff=oddtdtcreator"><img src="./assets/images/Eventbrite_Logo.svg"></a>
-
-
-<br>
-<br>
+<a href="https://www.meetup.com/fr-FR/owasp-quebec-city-chapter/events/301421240/"><img src="./assets/images/100px-Meetup-logo.png"></a>
 
 ---
+
 # Annonces!
 
 
