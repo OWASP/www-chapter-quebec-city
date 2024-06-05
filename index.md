@@ -39,6 +39,7 @@ Les LLMs, tel que ChatGPT, sont de plus en plus utilisés par les programmeurs p
 
 M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Laval et a été chercheur postdoctoral au centre de Recherche et développement pour la défense Canada (RDDC-RDDC) à Valcartier, au Canada. Il est actuellement professeur à l’université du Québec à Gatineau.  Ses recherches portent sur tous les aspects de la sécurité des logiciels, et est l’auteur du livre « La Sécurité Logicielle : une approche défensive ». Il est récipiendaire de subventions de recherche du FQRNT et du CRSNG. Ses recherches ont également été financées par l'industrie.
 
+<br>
 
 #### Détails de l'événement:
 
