@@ -48,8 +48,9 @@ M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Lava
 |            | 17:50 - 18:00 | Annonces de chapitre     |
 |            | 18:00 - 19:00 | Conférence               |
 |            | 19:00         | Discussions libres       |
+<br>
 
-**Location:**<br>
+**Lieux:**<br>
 Pacini Québec Sainte-Foy<br>
 999, avenue de Bourgogne<br>
 Québec (Québec)  G1W 4S6<br>
@@ -59,9 +60,10 @@ Québec (Québec)  G1W 4S6<br>
 
 <a href="https://beneva.ca"><img src="./assets/images/200px-Beneva_Logo.png"></a>
 
-Merci à **Beneva**, commanditaire de l'événement!<br>
+Merci à [**Beneva**](https://beneva.ca), fière commanditaire de l'événement!<br>
 Bouchées et breuvages seront servis, et des prix de présence seront distribués aux personnes présentes, gracieuseté de notre commanditaire.
-
+<br>
+<br>
 
 #### RSVP! Places limitées!
 
@@ -75,7 +77,7 @@ Bouchées et breuvages seront servis, et des prix de présence seront distribué
 
 
 <details>
-  <summary>### Recherche de leaders ou de volontaires</summary>
+  <summary> Recherche de leaders ou de volontaires</summary><br>
 
 Après plusieurs années comme co-leader du chapitre OWASP Ville de Québec, Louis Nadeau songe à passer le flambeau très prochainement. Joignez-vous à moi pour le remercier de ses précieux et loyaux services pour notre communauté!
 
@@ -87,10 +89,12 @@ Entre autres nous avons des besoins suivants:
   - Organiser conférences, activités, formations, partenariats académiques
   - Participer à la logistique du site web, liste de distributon, plateformes de diffusion et des médias sociaux
   - Faire rayonner le domaine de la sécurité applicative et l'organisation OWASP en donnant des conférences
+</details>
   
 
 ---
-<summary>### Appel de conférenciers pour 2024</summary>
+<details>
+  <summary> Appel de conférenciers pour 2024</summary><br>
 
 Voici à titre indicatif quelques idées de présentations en lien avec la sécurité applicative, vos sujets nous intéressent également, alors faites-nous en part!:
 
