@@ -1,6 +1,6 @@
 ---
 title: Participation
-displaytext: Participation
+displaytext: Je m'implique
 layout:  null
 tab: true
 order: 2
