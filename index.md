@@ -52,11 +52,11 @@ M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Lava
 
 <br>
 
-**Lieux:**<br>
-Pacini Québec Sainte-Foy<br>
+#### Lieux:
+[**Pacini Québec Sainte-Foy**](https://pacini.com/en/italian-restaurant-quebec-stefoy/) <br>
 999, avenue de Bourgogne<br>
 Québec (Québec)  G1W 4S6<br>
-
+<br>
 
 #### Commanditaire:
 
