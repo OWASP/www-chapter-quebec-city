@@ -1,12 +1,12 @@
 ---
-title: 2023/11/15 - Conference: OWASP Top 10 CI/CD Security Risks
+title: 2023/11/15 - OWASP Top 10 CI/CD Security Risks
 layout: col-sidebar
 tags: OWASPQC
 ---
 ## 15 Novembre 2023: Conference: OWASP Top 10 CI/CD Security Risks
 
 
-<img align="left" style="padding: 10px;" width="200px" src="./assets/images/200px-Magno.png" />
+<img align="left" style="padding: 10px;" width="200px" src="../../assets/images/200px-Magno.png" />
 
 
 **Magno Logan**
@@ -46,7 +46,7 @@ Québec (Québec)  G1W 4S6<br>
 
 ### Commanditaire de l'événement:
 
-<a href="https://trendmicro.com"><img src="./assets/images/200px-TrendMicro_Logo.png"></a>
+<a href="https://trendmicro.com"><img src="../../assets/images/200px-TrendMicro_Logo.png"></a>
 
 Merci à **Trend Micro**, commanditaire de l'événement!<br>
 Bouchées et breuvages seront servis, gracieuseté de notre commanditaire.
@@ -56,7 +56,7 @@ Bouchées et breuvages seront servis, gracieuseté de notre commanditaire.
 
 [**Inscription gratuite et obligatoire!**](https://www.eventbrite.ca/e/conference-owasp-top-10-cicd-security-risks-tickets-740575831247?aff=oddtdtcreator)
 
-<a href="https://www.eventbrite.ca/e/conference-owasp-top-10-cicd-security-risks-tickets-740575831247?aff=oddtdtcreator"><img src="./assets/images/Eventbrite_Logo.svg"></a>
+<a href="https://www.eventbrite.ca/e/conference-owasp-top-10-cicd-security-risks-tickets-740575831247?aff=oddtdtcreator"><img src="../../assets/images/Eventbrite_Logo.svg"></a>
 
 
 <br>
