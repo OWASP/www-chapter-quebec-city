@@ -50,6 +50,7 @@ M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Lava
 |            | 19:00         | Discussions libres       |
 
 <br>
+
 **Lieux:**<br>
 Pacini Québec Sainte-Foy<br>
 999, avenue de Bourgogne<br>
