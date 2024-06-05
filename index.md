@@ -15,11 +15,11 @@ meetup-group: quebec-owasp-meetup-group
 <!--
   Ceci est un commentaire
 -->
-## Événement à venir
+## Événement à venir  
+ <br> 
 
-
-### 2 Juillet 2024: Conference: ChatGPT comme assistant de programmation: atout ou risque?
-
+### 2 Juillet 2024: Conférence: ChatGPT comme assistant de programmation: atout ou risque?
+  <br>  
 
 <img align="left" style="padding: 10px;" width="200px" src="./assets/images/200px-Raphael_Khoury.png" />
 
@@ -49,7 +49,7 @@ M. Khoury a obtenu son doctorat en sécurité informatique de l'Université Lava
 |            | 18:00 - 19:00 | Conférence               |
 |            | 19:00         | Discussions libres       |
 
-**Location:**<br>
+**Lieu:**<br>
 Pacini Québec Sainte-Foy<br>
 999, avenue de Bourgogne<br>
 Québec (Québec)  G1W 4S6<br>
@@ -68,14 +68,12 @@ Bouchées et breuvages seront servis, et des prix de présence seront distribué
 [**Inscription gratuite et obligatoire!**](https://www.meetup.com/fr-FR/owasp-quebec-city-chapter/events/301421240/)
 
 <a href="https://www.meetup.com/fr-FR/owasp-quebec-city-chapter/events/301421240/"><img src="./assets/images/100px-Meetup-logo.png"></a>
-
 ---
 
 # Annonces!
 
 
-<details>
-  <summary>### Recherche de leaders ou de volontaires</summary>
+### Recherche de leaders ou de volontaires
 
 Après plusieurs années comme co-leader du chapitre OWASP Ville de Québec, Louis Nadeau songe à passer le flambeau très prochainement. Joignez-vous à moi pour le remercier de ses précieux et loyaux services pour notre communauté!
 
@@ -90,7 +88,7 @@ Entre autres nous avons des besoins suivants:
   
 
 ---
-<summary>### Appel de conférenciers pour 2024</summary>
+### Appel de conférenciers pour 2024
 
 Voici à titre indicatif quelques idées de présentations en lien avec la sécurité applicative, vos sujets nous intéressent également, alors faites-nous en part!:
 
@@ -115,7 +113,7 @@ Notes :
   - La neutralité et l'impartialité sont de mise, vos opinions sont bienvenues en autant qu'elles soient exprimées dans le respect.
   - Toute intervention orale (présentation, formation) lors d'un meeting OWASP est soumise à l'acceptation préalable du règlement des conférenciers.
   - La vente de produits est strictement interdite.
-</details>
+
 
 
 ---
