@@ -15,8 +15,27 @@ meetup-group: quebec-owasp-meetup-group
 <!--
   Ceci est un commentaire
 -->
-## Événement à venir
+# Événement à venir
 
+### OWASP Montréal et OWASP Ville de Québec sont fiers de participer à GoSec 2024 – Bénéficiez de notre code promo!
+
+Les chapitres OWASP Montréal et OWASP Ville de Québec sont fiers de participer à GoSec 2024 qui se tiendra les 11 et 12 septembre au Palais des congrès de Montréal. Venez nous rencontrer à notre kiosque OWASP!
+
+**Inscrivez-vous** aujourd'hui grâce à notre code promotionnel et **bénéficiez de 15% de réduction** sur votre billet en utilisant le code promotionnel "**GSOWASP**" : [GoSec 2024 Inscription](https://www.gosec.net/event/gosec-2024/)
+
+Au programme :
+
+- Des conférences principales quotidiennes par des experts renommés.
+- Des ateliers interactifs mettant en avant les stratégies de cybersécurité de pointe.
+- Plus de 36 sessions animées par des experts, des partenaires et des leaders d'opinion.
+- Des rencontres enrichissantes avec nos excellents partenaires.
+
+Pour tous les détails: [GoSec 2024](https://gosec.net/fr/)
+
+*Vos leaders des chapitres OWASP Montréal et OWASP Ville de Québec*<br/>
+
+
+---
 
 ### 2 Juillet 2024: Conference: ChatGPT comme assistant de programmation: atout ou risque?
 
