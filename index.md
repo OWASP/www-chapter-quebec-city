@@ -17,6 +17,43 @@ meetup-group: quebec-owasp-meetup-group
 -->
 # Événement à venir
 
+### « Secure-By-Design » et « DEVSECOPS », des concepts aux expériences réelles
+
+**Inscription sur [EventBrite](https://www.eventbrite.ca/e/secure-by-design-et-devsecops-des-concepts-aux-experiences-reelles-tickets-1024450337537)**
+
+**L'équipe de sécurité de Promutuel Assurance** nous invite dans leurs bureaux pour la prochaine conférence OWASP Québec, le jeudi 17 octobre 2024, de 18h à 19h. À l'agenda, deux conférences!
+
+#### Présentation #1: Évoluer avec l'approche Secure by design
+
+**Synopsis :** L'approche Secure by Design, pour le développement de produits et services numériques, se structure à l'échelle internationale et devient une pièce maîtresse de plusieurs organismes de sécurité, dont ceux du Royaume-Uni, de l'Australie et des États-Unis. Nous aborderons l'évolution du concept, notamment dans la gouvernance des organisations, préciserons les principes directeurs importants et une approche d'intégration possible à l'échelle d'une organisation. Le tout sera accompagné d'exemples de pratiques à adopter, dont certaines de l'OWASP et du CIS (benchmark).
+
+##### Serge Drolet, MBA CISA CBCP PMP
+<img align="left" style="padding: 10px;" width="200px" src="./assets/images/sergedrolet.jpg" />
+vCISO, CyberSéQurité inc.
+https://www.linkedin.com/in/serge-drolet-78b96530/
+
+Serge possède plus de 25 ans d'expérience en TI dans plusieurs organisations telles que Statistique Canada, Revenu Québec et l'Autorité des marchés financiers (AMF). Il a été successivement responsable de la cybersécurité (CISO), de la continuité des affaires et de la gestion intégrée des risques. Il est actuellement vCISO à son compte pour diverses organisations et possède plusieurs certifications professionnelles reconnues. Il est très impliqué dans le développement des compétences en TI et agit à titre de conférencier, notamment via ISACA, lesAffaires, SeQCure, Réseau Action TI et maintenant l'OWASP.
+
+#### Présentation #2: Introduction DevSecOps : Bénéfices et retours d'expérience
+
+**Synopsis :** "Cette présentation permettra de vous familiariser avec les concepts fondamentaux de la DevSecOps, la philosophie derrière cette approche et les avantages de son adoption. À travers des retours d'expérience auprès de plusieurs ministères et organismes du Gouvernement du Québec, nous préparerons les participants pour la transition vers un modèle où la sécurité fait partie intégrante du cycle de développement."
+
+##### Vincent Goulet
+<img align="left" style="padding: 10px;" width="200px" src="./assets/images/vincentgoulet.jpg" />
+Président-Fondateur, Sonder Sécurité
+Courriel : vincent.goulet@sondersecurity.com
+LinkedIn : https://www.linkedin.com/in/vincentgoulet/
+
+*"Je m'investis depuis 2010 pour combler le fossé entre les équipes de développement et de sécurité. Je suis convaincu que l'aspect humain est la clé pour réussir la transition vers un modèle où la sécurité fait partie intégrante du cycle de développement."*
+
+##### Philippe Marcoux
+<img align="left" style="padding: 10px;" width="200px" src="./assets/images/philippemarcoux.jpg" />
+Architecte principal & Responsable de la livraison, Sonder Sécurité
+Courriel : philippe.marcoux@sondersecurity.com
+LinkedIn : https://www.linkedin.com/in/philippe-marcoux-devsecops/
+
+*"La découverte de la DevSecOps a été une véritable révélation pour moi. Cette approche propose de nouvelles pratiques, totalement alignées sur les réalités du développement moderne."*
+---
 ### OWASP Montréal et OWASP Ville de Québec sont fiers de participer à GoSec 2024 – Bénéficiez de notre code promo!
 
 Les chapitres OWASP Montréal et OWASP Ville de Québec sont fiers de participer à GoSec 2024 qui se tiendra les 11 et 12 septembre au Palais des congrès de Montréal. Venez nous rencontrer à notre kiosque OWASP!
