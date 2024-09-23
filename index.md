@@ -46,8 +46,6 @@ Président-Fondateur, Sonder Sécurité
 <br>  
 <br>
 
-  <br>
-  <br>
 
 ##### Philippe Marcoux  
 <img align="left" style="padding: 10px;" width="200px" src="./assets/images/philippemarcoux.jpg" />  
@@ -60,8 +58,6 @@ Architecte principal & Responsable de la livraison, Sonder Sécurité
 
   <br>
   <br>
-<br>  
-<br>
 
 ### Participez en grand nombre!
 
