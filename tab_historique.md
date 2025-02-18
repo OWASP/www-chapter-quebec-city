@@ -6,6 +6,14 @@ order: 3
 tags: OWASPQC
 ---
 
+# 2024
+
+{% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2024'" %}
+
+{% for page in page_event %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
 # 2023
 
 {% assign page_event = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2023'" %}
