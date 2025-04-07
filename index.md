@@ -17,7 +17,42 @@ meetup-group: quebec-owasp-meetup-group
 -->
 # Événement à venir
 
-### Les détails du prochain événement seront partagés bientôt. Restez à l'affût!  
+# Sécurité des applications avec OWASP  
+**Événement à ne pas manquer !**
+
+### Date et heure  
+**mercredi 23 avril 2025**, de **18:00 à 20:00 (EDT)**  
+*(Durée : 2 heures)*  
+
+### Lieu  
+**Cégep de Sainte-Foy**  
+2410, chemin Sainte-Foy  
+Québec (QC) G1V 1T2  
+
+---
+
+### À propos de l'événement  
+Rejoignez-nous le mercredi 23 avril pour une conférence sur 
+l'incontournable **Top 10 de l’OWASP**, présentée par **Patrick Leclerc**, 
+co-leader du chapitre OWASP Ville de Québec.  
+Cet événement est ouvert :  
+- Aux étudiants  
+- Aux professionnels chevronnés  
+- À tous ceux souhaitant rafraîchir leurs connaissances ou échanger sur 
+les bonnes pratiques en sécurité informatique.
+
+---
+
+### Programme  
+1. Présentation du **Top 10 OWASP** : qu'est-ce que c'est ?  
+2. Données et méthodologies utilisées  
+3. Questions/réponses avec le présentateur  
+
+---
+
+### Participation  
+**Places limitées** – Inscription recommandée !  
+👉 [Cliquez ici pour vous inscrire](#https://www.eventbrite.ca/e/securite-des-applications-avec-owasp-tickets-1313170912549)  
 
 ---
 
