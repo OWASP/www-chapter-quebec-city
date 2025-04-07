@@ -18,7 +18,7 @@ meetup-group: quebec-owasp-meetup-group
 # Événement à venir
 
 # Sécurité des applications avec OWASP  
-**Événement à ne pas manquer !**
+<img align="right" style="padding: 10px;" width="200px" src="assets/images/TOP_10_logo_Final_Logo_Colour.png"/> **Événement à ne pas manquer !**
 
 ### Date et heure  
 **mercredi 23 avril 2025**, de **18:00 à 20:00 (EDT)**  
@@ -26,7 +26,7 @@ meetup-group: quebec-owasp-meetup-group
 
 ### Lieu  
 **Cégep de Sainte-Foy**  
-2410, chemin Sainte-Foy  
+<img align="right" style="padding: 10px;" width="200px" src="assets/images/cegep_ste-foy_(117x45).png"/>2410, chemin Sainte-Foy  
 Québec (QC) G1V 1T2  
 
 ---
@@ -51,8 +51,9 @@ les bonnes pratiques en sécurité informatique.
 ---
 
 ### Participation  
-**Places limitées** – Inscription recommandée !  
-👉 [Cliquez ici pour vous inscrire](#https://www.eventbrite.ca/e/securite-des-applications-avec-owasp-tickets-1313170912549)  
+<img align="right" style="padding: 10px;" width="30px" src="assets/images/e_eventbrite.png"/> **Places limitées** – Inscription recommandée !  
+
+👉 [Inscription sur Eventbrite](https://www.eventbrite.ca/e/securite-des-applications-avec-owasp-tickets-1313170912549)  
 
 ---
 
