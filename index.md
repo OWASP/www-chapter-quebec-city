@@ -61,17 +61,17 @@ les bonnes pratiques en sécurité informatique.
 
 
 <details>
-  <summary>Recherche de volontaires</summary>
+  <summary>Recherche de volontaires</summary>
 
-  Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org).
+  Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org).
 
-  Entre autres, nous avons des besoins suivants :
+  Entre autres, nous avons des besoins suivants :
+- Trouver des présentateurs de contenu liés à la sécurité applicative 
+- Organiser conférences, activités, formations, partenariats académiques
+- Participer à la logistique du site web, liste de distribution, plateformes de diffusion et des médias sociaux
+- Faire rayonner le domaine de la sécurité applicative et l'organisation OWASP en donnant des conférences
+</details
 
-  - Trouver des présentateurs de contenu liés à la sécurité applicative 
-  - Organiser conférences, activités, formations, partenariats académiques
-  - Participer à la logistique du site web, liste de distribution, plateformes de diffusion et des médias sociaux
-  - Faire rayonner le domaine de la sécurité applicative et l'organisation OWASP en donnant des conférences
-</details>
   
 
 ---
