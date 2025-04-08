@@ -63,7 +63,7 @@ les bonnes pratiques en sécurité informatique.
 <details>
   <summary> Recherche de volontaires</summary><br>
 
-Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org). 
+Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org) 
 
 Entre autres nous avons des besoins suivants:
 
