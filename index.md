@@ -59,26 +59,23 @@ les bonnes pratiques en sécurité informatique.
 
 # Annonces!
 
-
 <details>
-  <summary>Recherche de volontaires</summary>
+  <summary> Recherche de volontaires</summary><br>
 
-  Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org).
+Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org). Nous recherchons des personnes intéressées à:
 
-  Entre autres, nous avons des besoins suivants :
-- Trouver des présentateurs de contenu liés à la sécurité applicative 
-- Organiser conférences, activités, formations, partenariats académiques
-- Participer à la logistique du site web, liste de distribution, plateformes de diffusion et des médias sociaux
-- Faire rayonner le domaine de la sécurité applicative et l'organisation OWASP en donnant des conférences
-</details
+  - Trouver des présentateurs de contenu liés à la sécurité applicative
+  - Organiser conférences, activités, formations, partenariats académiques
+  - Participer à la logistique du site web, liste de distribution, plateformes de diffusion et des médias sociaux
+  - Faire rayonner le domaine de la sécurité applicative et l'organisation OWASP en donnant des conférences
+</details>
 
-  
 
 ---
 <details>
   <summary> Appel de conférenciers pour 2025</summary><br>
 
-Voici à titre indicatif quelques idées de présentations en lien avec la sécurité applicative, vos sujets nous intéressent également, alors faites-nous en part!:
+Voici à titre indicatif quelques idées de présentations en lien avec la sécurité applicative, vos sujets nous intéressent également, alors faites-nous en part!
 
   - Démonstration d’utilisation d'outils de sécurité disponibles gratuitement ou open source
   - Couverture d'un élément du Top 10 OWASP (ex : XXE, Insecure deserialization, Insufficient logging and monitoring)
