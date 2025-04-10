@@ -60,7 +60,7 @@ les bonnes pratiques en sécurité informatique.
 # Annonces!
 
 <details>
-  <summary> Recherche de volontaires</summary><br>
+  <summary> Recherche de volontaires</summary>
 
 Si vous désirez vous investir dans votre chapitre local en tant que bénévole, ou que vous avez des idées pour bonifier notre offre, [écrivez-moi](mailto:patrick.leclerc@owasp.org). Nous recherchons des personnes intéressées à:
 
@@ -73,7 +73,7 @@ Si vous désirez vous investir dans votre chapitre local en tant que bénévole,
 
 ---
 <details>
-  <summary> Appel de conférenciers pour 2025</summary><br>
+  <summary> Appel de conférenciers pour 2025</summary>
 
 Voici à titre indicatif quelques idées de présentations en lien avec la sécurité applicative, vos sujets nous intéressent également, alors faites-nous en part!
 
