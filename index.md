@@ -17,49 +17,59 @@ meetup-group: quebec-owasp-meetup-group
 -->
 # Événement à venir
 
-# Sécurité des applications avec OWASP  
-<img align="right" style="padding: 10px;" width="200px" src="assets/images/TOP_10_logo_Final_Logo_Colour.png"/> **Événement à ne pas manquer !**
+# Atelier « Find & Fix » à 3 Brasseurs Laurier
 
-### Date et heure  
-**mercredi 23 avril 2025**, de **18:00 à 20:00 (EDT)**  
-*(Durée : 2 heures)*  
+**Atelier pratique de découverte de vulnérabilités – Apportez votre portable !**
 
-### Lieu  
-**Cégep de Sainte-Foy**  
-<img align="right" style="padding: 10px;" width="200px" src="assets/images/cegep_ste-foy_(117x45).png"/>2410, chemin Sainte-Foy  
-Québec (QC) G1V 1T2  
-Le stationnement désigné sera le stationnement à l’arrière du Cégep. Comme il y a un spectacle le mercredi de notre conférence, il suffit de mentionner aux préposés de stationnement que c’est un événement privé et vous serez dirigés vers le stationnement arrière. Ce sera gratuit pour tous.
-Local Sci-napse (B140). En se stationnant dans le stationnement arrière, le Sci-napse sera facilement accessible par là.
-Il y aura 50 chaises disponibles, ainsi que les fauteuils du Sci-napse si jamais on déborde.
-Nous aurons des boissons gazeuses et des chips! :)
+<img align="right" style="padding: 10px;" width="50px" src="assets/images/blackduck.png"/>
 
 ---
 
-### À propos de l'événement  
-Rejoignez-nous le mercredi 23 avril pour une conférence sur 
-l'incontournable **Top 10 de l’OWASP**, présentée par **Patrick Leclerc**, 
-co-leader du chapitre OWASP Ville de Québec.  
-Cet événement est ouvert :  
-- Aux étudiants  
-- Aux professionnels chevronnés  
-- À tous ceux souhaitant rafraîchir leurs connaissances ou échanger sur 
-les bonnes pratiques en sécurité informatique.
+### Date et heure
+
+**Mercredi 21 mai 2025**, de **18h00 à 19h30**
 
 ---
 
-### Programme  
-1. Présentation du **Top 10 OWASP** : qu'est-ce que c'est ?  
-2. Données et méthodologies utilisées  
-3. Questions/réponses avec le présentateur  
+### Lieu
+
+**3 Brasseurs – Laurier**  
+2450 Bd Laurier Local G50  
+Québec, QC G1V 2L1  
+À deux pas de l’Université Laval  
+Espace à l’étage réservé pour 40 personnes  
+WiFi gratuit disponible
 
 ---
 
-### Participation  
-<img align="right" style="padding: 10px;" width="30px" src="assets/images/e_eventbrite.png"/> **Places limitées** – Inscription recommandée !  
+### À propos de l’atelier
 
-👉 [Inscription sur Eventbrite](https://www.eventbrite.ca/e/securite-des-applications-avec-owasp-tickets-1313170912549)  
+Venez expérimenter un atelier interactif où chacun pourra tester un outil de découverte de vulnérabilités sur son propre ordinateur.
+
+- **Durée** : 1h30
+- **Objectif** : Découvrir et corriger des vulnérabilités (find & fix)
+- **Prérequis** :
+  - Compte Github gratuit
+  - Un éditeur de code (ex : VSCode) installé sur votre machine
+  - Votre ordinateur portable bien chargé !
+- **Format** : Exercices pratiques guidés
 
 ---
+
+### Bouffe & boissons
+
+La nourriture sera offerte environ 30 minutes avant le début de l’atelier.  
+Commandez vos plats et boissons sur place, ambiance conviviale garantie !
+
+---
+
+### Participation
+
+**Places limitées** – Merci de confirmer votre présence rapidement.
+
+<img align="right" style="padding: 10px;" width="30px" src="assets/images/e_eventbrite.png"/>
+
+👉 [Inscription sur Eventbrite](https://www.eventbrite.ca/e/devsecops-hands-on-labs-ctf-tickets-1350535460919)
 
 # Annonces!
 
