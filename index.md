@@ -21,7 +21,7 @@ meetup-group: quebec-owasp-meetup-group
 
 **Atelier pratique de découverte de vulnérabilités – Apportez votre portable !**
 
-<img align="right" style="padding: 10px;" width="50px" src="assets/images/blackduck.png"/>
+<img align="right" style="padding: 10px;" height="50px" src="assets/images/blackduck.png"/>
 
 ---
 
@@ -34,9 +34,9 @@ meetup-group: quebec-owasp-meetup-group
 ### Lieu
 
 **3 Brasseurs – Laurier**  
-2450 Bd Laurier Local G50  
+[2450 Boulevard Laurier, Local G50](https://maps.app.goo.gl/b9ZiYPy2YGxv9npn9)  
 Québec, QC G1V 2L1  
-À deux pas de l’Université Laval  
+Près de l’Université Laval  
 Espace à l’étage réservé pour 40 personnes  
 WiFi gratuit disponible
 
