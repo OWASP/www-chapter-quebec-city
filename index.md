@@ -17,49 +17,54 @@ meetup-group: quebec-owasp-meetup-group
 -->
 # Événement à venir
 
-# Atelier « Find & Fix » à 3 Brasseurs Laurier
+# Réduire le risque de sécurité applicative avec l’ASPM (Application Security Posture Management) : anticiper l’avenir à l’horizon 2025 et au-delà 
 
-**Atelier pratique de découverte de vulnérabilités – Apportez votre portable !**
+**Présentation en anglais avec notre présentateur Jimmy Xu de Cycode**
 
-<img align="right" style="padding: 10px;" height="50px" src="assets/images/blackduck.png"/>
+<img align="right" style="padding: 10px;" width="30px" src="assets/images/cropped-cycode_logo_R.webp"/>
 
 ---
 
 ### Date et heure
 
-**Mercredi 21 mai 2025**, de **18h00 à 19h30**
+**Mercredi 12 novembre 2025**, de **18h à 20h30**
 
 ---
 
 ### Lieu
 
-**3 Brasseurs – Laurier**  
-[2450 Boulevard Laurier, Local G50](https://maps.app.goo.gl/b9ZiYPy2YGxv9npn9)  
-Québec, QC G1V 2L1  
-Près de l’Université Laval  
-Espace à l’étage réservé pour 40 personnes  
+**Pacini Place des Quatre-Bourgeois**  
+[999 Avenue de Bourgogne](https://maps.app.goo.gl/b9ZiYPy2YGxv9npn9)  
+Québec, QC G1W 4S6  
+Près de l''autoroute Duplessis  
+Espace réservé pour 40 personnes  
 WiFi gratuit disponible
 
 ---
 
 ### À propos de l’atelier
 
-Venez expérimenter un atelier interactif où chacun pourra tester un outil de découverte de vulnérabilités sur son propre ordinateur.
+À l’ère de menaces informatiques de plus en plus sophistiquées, la sécurité des applications est devenue une préoccupation critique pour la majorité des organisations. Cette conférence, intitulée « Réduire le risque de sécurité applicative avec l’ASPM (Application Security Posture Management) : anticiper l’avenir à l’horizon 2025 et au-delà », explore l’émergence d’ASPM comme levier essentiel pour renforcer la sécurité des applications tout en accélérant l’adoption des pratiques DevSecOps et cloud native. L’accent sera mis sur la manière de préparer stratégiquement votre posture de sécurité pour l’avenir.
+
+Avec la démocratisation des assistants de codage IA et des approches dites de « vibe coding », la livraison logicielle s’accélère, mais de nouveaux risques complexes apparaissent. Après dix ans d’efforts DevSecOps, le paradigme « shift left » n’a pas donné tous les résultats escomptés.
+
+La sécurité applicative nécessite désormais une refonte fondamentale pour l’avenir. Dans cette présentation, nous aborderons les approches innovantes et les technologies conçues pour résoudre trois défis majeurs à l’ère de l’IA : rapidité, couverture, mise à l’échelle et contextualisation. Trois scénarios concrets seront présentés :
+
+- Inventorier et sécuriser les nouvelles applications
+- Réduire les risques et le volume de backlogs existants en priorisant les correctifs réellement critiques
+- Étendre la couverture pour répondre aux angles morts qui émergent dans le développement assisté par IA.
+
+---
 
 - **Durée** : 1h30
-- **Objectif** : Découvrir et corriger des vulnérabilités (find & fix)
-- **Prérequis** :
-  - Compte Github gratuit
-  - Un éditeur de code (ex : VSCode) installé sur votre machine
-  - Votre ordinateur portable bien chargé !
-- **Format** : Exercices pratiques guidés
-
+- **Objectif** : Découvrir ASPM
+- **Format** : Présentation
+- **Présentateur** : Jimmy Xu the ASPM Guru from Cycode
 ---
 
 ### Bouffe & boissons
 
-La nourriture sera offerte environ 30 minutes avant le début de l’atelier.  
-Commandez vos plats et boissons sur place, ambiance conviviale garantie !
+La nourriture sera offerte environ 30 minutes avant le début de l’atelier, ambiance conviviale garantie !
 
 ---
 
@@ -69,7 +74,7 @@ Commandez vos plats et boissons sur place, ambiance conviviale garantie !
 
 <img align="right" style="padding: 10px;" width="30px" src="assets/images/e_eventbrite.png"/>
 
-👉 [Inscription sur Eventbrite](https://www.eventbrite.ca/e/devsecops-hands-on-labs-ctf-tickets-1350535460919)
+👉 [Inscription sur Eventbrite](https://www.eventbrite.ca/e/reducing-application-security-risk-with-aspm-future-proofing-for-2025-tickets-1830042790249)
 
 # Annonces!
 
