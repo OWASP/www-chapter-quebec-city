@@ -21,7 +21,7 @@ meetup-group: quebec-owasp-meetup-group
 
 **Présentation en anglais avec notre présentateur Jimmy Xu de Cycode**
 
-<img align="right" style="padding: 10px;" width="30px" src="assets/images/cropped-cycode_logo_R.webp"/>
+<img align="right" style="padding: 10px;" width="250px" src="assets/images/cropped-cycode_logo_R.webp"/>
 
 ---
 
