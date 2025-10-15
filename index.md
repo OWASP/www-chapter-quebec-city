@@ -34,7 +34,7 @@ meetup-group: quebec-owasp-meetup-group
 ### Lieu
 
 **Pacini Place des Quatre-Bourgeois**  
-[999 Avenue de Bourgogne](https://maps.app.goo.gl/b9ZiYPy2YGxv9npn9)  
+[999 Avenue de Bourgogne](https://maps.app.goo.gl/ZyRRzmQ3LAWuWZj99)  
 Québec, QC G1W 4S6  
 Près de l''autoroute Duplessis  
 Espace réservé pour 40 personnes  
