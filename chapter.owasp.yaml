@@ -1,0 +1,27 @@
+leaders:
+  - name: Patrick Leclerc
+    email: patrick.leclerc@owasp.org
+    github: PatrickLeclerc-LaCapitale
+  - name: Yannick Lepage
+    email: yannick.lepage@owasp.org
+    github: ylepage
+  - name: Maniel Ristiguian
+    email: maniel.ristiguian@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Quebec
+  city: Quebec City
+  latitude: 46.8137431
+  longitude: -71.2084061
+meetup_group: quebec-owasp-meetup-group
+name: OWASP Quebec City
+repositories:
+  - name: www-chapter-quebec-city
+    url: https://github.com/OWASP/www-chapter-quebec-city
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASPQC
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-quebec-city
